@@ -1,4 +1,4 @@
-fight_id,name_first,name_last,win/loss,body,body_attempts,clinch,clinch_attempts,distance,distance_attempts,ground,ground_attempts,head,head_attempts,kd,leg,leg_attempts,method,pass,referee,reversals,round,sig_attempts,sig_strikes,strike_attempts,strikes,sub_attempts,takedowns,td_attempts
+fight_id,name_first,name_last,win/loss,body,body_attempts,clinch,clinch_attempts,distance,distance_attempts,ground,ground_attempts,head,head_attempts,knock_downs,leg,leg_attempts,method,pass,referee,reversals,round,sig_attempts,sig_strikes,strike_attempts,strikes,sub_attempts,takedowns,td_attempts
 0,Ovince,Saint,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Submission,3,Leon Roberts,0,1,0,0,3,3,1,0,0
 0,Preux,Yushin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Submission,0,Leon Roberts,0,1,0,0,0,0,1,0,1
 1,Claudia,Gadelha,1,1,4,9,15,30,71,3,5,41,87,0,0,0,Decision,0,John Sharp,0,3,91,42,96,47,2,0,7
