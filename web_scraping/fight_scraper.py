@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as bs
 import pandas as pd
 import urllib
 import os
@@ -8,8 +8,8 @@ os.chdir('/Users/courtneyfergusonlee/ufc_fight_analysis/data')
 fight_info = pd.read_csv('fight_urls.csv', encoding='utf-8')
 
 # Store urls, locations and titles
-fight_urls = fight_info['title'].values.tolist()
-fight_titles = fight_info['link'].values.tolist()
+fight_urls = fight_info['link'].values.tolist()
+fight_titles = fight_info['title'].values.tolist()
 fight_locations = fight_info['location'].values.tolist()
 fight_dates = fight_info['date'].values.tolist()
 
@@ -33,7 +33,7 @@ for i in range(len(fight_urls)):
     
     sock = urllib.urlopen(fight_urls[i]) # specific URL for a fight
     fight_html = sock.read()
-    fight_soup = BeautifulSoup(fight_html, "lxml")
+    fight_soup = bs(fight_html)
     trs = fight_soup.find_all('tr') # all the tables in each fight URL
     headers = fight_soup.find_all('i')
     bad_call = 0
