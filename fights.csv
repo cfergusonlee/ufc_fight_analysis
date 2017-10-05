@@ -4795,8 +4795,6 @@ Gray,Maynard,"June 22, 2012",2396,1,Decision,7,11,10,11,33,207,6,7,35,206,0,7,8,
 Clay,Guida,"June 22, 2012",2396,0,Decision,1,5,0,0,45,321,0,0,40,312,0,4,4,"Atlantic City, New Jersey, USA",1,Dan Miragliotta,0,5,321,45,327,49,0,0,3,UFC on FX: Maynard vs Guida
 Sam,Stout,"June 22, 2012",2397,1,Decision,20,33,1,2,63,187,0,0,28,139,0,16,17,"Atlantic City, New Jersey, USA",1,Kevin Mulhall,0,3,189,64,234,96,0,4,8,UFC on FX: Maynard vs Guida
 Spencer,Fisher,"June 22, 2012",2397,0,Decision,13,14,5,7,60,149,0,0,43,132,0,9,10,"Atlantic City, New Jersey, USA",0,Kevin Mulhall,0,3,156,65,184,89,0,0,1,UFC on FX: Maynard vs Guida
-Brian,Ebersole,"June 22, 2012",2398,1,Decision,6,11,6,8,14,29,19,22,29,42,0,4,6,"Atlantic City, New Jersey, USA",0,Kevin Mulhall,0,3,59,39,118,90,0,2,5,UFC on FX: Maynard vs Guida
-TJ,Waldburger,"June 22, 2012",2398,0,Decision,6,7,4,5,13,35,1,1,9,31,1,3,3,"Atlantic City, New Jersey, USA",2,Kevin Mulhall,0,3,41,18,59,33,4,1,1,UFC on FX: Maynard vs Guida
 Ross,Pearson,"June 22, 2012",2399,1,KO/TKO,11,15,1,1,30,94,7,12,24,89,0,3,3,"Atlantic City, New Jersey, USA",0,Yves Lavigne,0,2,107,38,124,49,0,3,6,UFC on FX: Maynard vs Guida
 Cub,Swanson,"June 22, 2012",2399,0,KO/TKO,2,4,1,2,40,95,4,7,39,95,1,4,5,"Atlantic City, New Jersey, USA",0,Yves Lavigne,0,2,104,45,115,51,0,0,1,UFC on FX: Maynard vs Guida
 Hatsu,Hioki,"June 22, 2012",2400,1,Decision,10,19,3,3,12,40,2,2,6,25,0,1,1,"Atlantic City, New Jersey, USA",3,Yves Lavigne,0,3,45,17,68,36,0,4,5,UFC on FX: Maynard vs Guida
@@ -8201,6 +8199,24 @@ Tito,Ortiz,"September 28, 2001",4099,1,Decision,8,8,47,49,5,15,12,20,17,37,0,39,
 Vladimir,Matyushenko,"September 28, 2001",4099,0,Decision,3,4,11,13,8,36,0,0,9,38,0,7,7,"Las Vegas, Nevada, USA",0,John McCarthy,0,5,49,19,138,103,0,1,6,UFC 33: Victory in Vegas
 Jens,Pulver,"September 28, 2001",4100,1,Decision,7,9,3,3,9,35,15,22,18,49,0,2,2,"Las Vegas, Nevada, USA",0,Mario Yamasaki,0,5,60,27,136,100,1,0,0,UFC 33: Victory in Vegas
 Dennis,Hallman,"September 28, 2001",4100,0,Decision,4,6,0,3,13,42,2,3,4,34,0,7,8,"Las Vegas, Nevada, USA",0,Mario Yamasaki,0,5,48,15,91,56,3,2,12,UFC 33: Victory in Vegas
+Chuck,Liddell,"September 28, 2001",4101,1,Decision,1,3,2,2,16,65,9,11,15,63,1,11,12,"Las Vegas, Nevada, USA",0,John McCarthy,0,3,78,27,78,27,0,0,0,UFC 33: Victory in Vegas
+Murilo,Bustamante,"September 28, 2001",4101,0,Decision,1,1,1,3,13,24,1,3,13,28,0,1,1,"Las Vegas, Nevada, USA",0,John McCarthy,0,3,30,15,30,15,0,2,20,UFC 33: Victory in Vegas
+Matt,Serra,"September 28, 2001",4102,1,Decision,4,5,0,0,3,7,6,10,3,10,0,2,2,"Las Vegas, Nevada, USA",6,Mario Yamasaki,1,3,17,9,31,20,3,3,12,UFC 33: Victory in Vegas
+Yves,Edwards,"September 28, 2001",4102,0,Decision,4,4,6,6,2,7,1,1,4,9,0,1,1,"Las Vegas, Nevada, USA",0,Mario Yamasaki,2,3,14,9,33,27,0,0,0,UFC 33: Victory in Vegas
+Dave,Menne,"September 28, 2001",4103,1,Decision,16,18,30,42,24,59,16,24,38,86,0,16,21,"Las Vegas, Nevada, USA",2,John McCarthy,2,5,125,70,241,180,4,1,1,UFC 33: Victory in Vegas
+Gil,Castillo,"September 28, 2001",4103,0,Decision,3,4,2,2,7,23,0,0,5,20,0,1,1,"Las Vegas, Nevada, USA",2,John McCarthy,0,5,25,9,126,110,0,7,19,UFC 33: Victory in Vegas
+Jutaro,Nakao,"September 28, 2001",4104,1,KO/TKO,0,0,0,0,6,6,2,2,3,3,1,5,5,"Las Vegas, Nevada, USA",0,Mason White,0,2,8,8,16,16,0,0,1,UFC 33: Victory in Vegas
+Tony,DeSouza,"September 28, 2001",4104,0,KO/TKO,0,1,1,2,0,3,0,0,0,3,0,1,1,"Las Vegas, Nevada, USA",0,Mason White,0,2,5,1,49,45,0,0,0,UFC 33: Victory in Vegas
+Ricardo,Almeida,"September 28, 2001",4105,1,Submission,2,2,0,0,4,4,0,0,0,0,0,2,2,"Las Vegas, Nevada, USA",2,Mason White,0,1,4,4,17,16,1,1,1,UFC 33: Victory in Vegas
+Eugene,Jackson,"September 28, 2001",4105,0,Submission,0,0,0,0,1,3,0,1,1,4,0,0,0,"Las Vegas, Nevada, USA",0,Mason White,0,1,4,1,23,18,2,2,2,UFC 33: Victory in Vegas
+Din,Thomas,"September 28, 2001",4106,1,Decision,1,1,24,35,11,24,7,10,41,68,0,0,0,"Las Vegas, Nevada, USA",1,John McCarthy,0,3,69,42,128,98,0,1,1,UFC 33: Victory in Vegas
+Fabiano,Iha,"September 28, 2001",4106,0,Decision,1,3,11,18,4,20,4,7,12,36,0,6,6,"Las Vegas, Nevada, USA",1,John McCarthy,0,3,45,19,78,46,2,2,7,UFC 33: Victory in Vegas
+Tito,Ortiz,"June 29, 2001",4107,1,KO/TKO,1,2,1,3,3,9,31,47,32,55,0,2,2,"East Rutherford, New Jersey, USA",0,John McCarthy,0,1,59,35,82,58,0,1,1,UFC 32: Showdown in the Meadowlands
+Elvis,Sinosic,"June 29, 2001",4107,0,KO/TKO,0,1,0,0,3,8,0,0,2,3,0,1,4,"East Rutherford, New Jersey, USA",0,John McCarthy,0,1,8,3,18,12,0,0,0,UFC 32: Showdown in the Meadowlands
+BJ,Penn,"June 29, 2001",4108,1,KO/TKO,3,3,4,4,0,2,2,2,3,5,1,0,0,"East Rutherford, New Jersey, USA",0,John McCarthy,0,1,8,6,13,11,0,0,1,UFC 32: Showdown in the Meadowlands
+Din,Thomas,"June 29, 2001",4108,0,KO/TKO,0,0,0,0,0,2,1,3,1,5,0,0,0,"East Rutherford, New Jersey, USA",0,John McCarthy,0,1,5,1,29,25,0,1,1,UFC 32: Showdown in the Meadowlands
+Josh,Barnett,"June 29, 2001",4109,1,Submission,0,0,0,0,0,1,10,16,10,17,0,0,0,"East Rutherford, New Jersey, USA",2,John McCarthy,0,1,17,10,28,21,1,1,1,UFC 32: Showdown in the Meadowlands
+Semmy,Schilt,"June 29, 2001",4109,0,Submission,0,0,0,0,1,1,0,0,0,0,0,1,1,"East Rutherford, New Jersey, USA",0,John McCarthy,0,1,1,1,6,4,0,0,0,UFC 32: Showdown in the Meadowlands
 Pat,Miletich,"June 29, 2001",4110,1,KO/TKO,1,1,4,6,6,10,0,0,7,13,1,2,2,"East Rutherford, New Jersey, USA",2,Mario Yamasaki,0,2,16,10,83,76,0,1,1,UFC 32: Showdown in the Meadowlands
 Shonie,Carter,"June 29, 2001",4110,0,KO/TKO,6,8,4,5,10,37,0,0,1,26,0,7,8,"East Rutherford, New Jersey, USA",0,Mario Yamasaki,0,2,42,14,47,18,0,0,0,UFC 32: Showdown in the Meadowlands
 Caol,Uno,"June 29, 2001",4111,1,KO/TKO,0,0,0,1,2,6,6,10,7,16,0,1,1,"East Rutherford, New Jersey, USA",0,Mario Yamasaki,0,1,17,8,24,14,0,2,4,UFC 32: Showdown in the Meadowlands
