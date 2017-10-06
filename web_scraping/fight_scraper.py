@@ -20,11 +20,16 @@ fighter_df = pd.DataFrame(columns=['name', 'kd', 'sig_strikes', 'sig_attempts', 
                                    'clinch_attempts', 'ground', 'ground_attempts', 'win/loss', 'referee', 'round', 'method',
                                    'date', 'location', 'title'])
 
+# Helper function to get the tag text
+def nice_text(tag):
+    return " ".join(str(tag.get_text()).split())
+
 
 # Iterate through the fight urls, and pull relevant variables/fields
 for i in range(len(fight_urls)):
-    if i%100==0:
+    if i%10==0 and i!=0:
         print i, fight_urls[i], fight_dates[i]
+        break
     
     # Store fight event, location and date
     title = fight_titles[i]
@@ -43,7 +48,7 @@ for i in range(len(fight_urls)):
                                   class_="b-fight-details__person")
     names = []
     winloss = []
-
+    
     name_1, name_2 = ["ERROR", "ERROR"]
     winloss_1, winloss_2 = ["ERROR", "ERROR"]
 
