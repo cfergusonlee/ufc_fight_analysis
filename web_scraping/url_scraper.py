@@ -74,5 +74,7 @@ for event_url, title, date, location in zip(event_urls, event_titles, event_date
 fight_urls = pd.DataFrame(
     data=fight_urls, 
     columns=['title', 'link', 'date', 'location'])
+fight_urls.drop_duplicates(subset="link", inplace=True)
+fight_urls.reset_index(drop=True, inplace=True)
 fight_urls.to_csv('fight_urls.csv', index=False)
 
