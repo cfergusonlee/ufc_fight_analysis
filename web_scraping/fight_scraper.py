@@ -27,9 +27,8 @@ def nice_text(tag):
 
 # Iterate through the fight urls, and pull relevant variables/fields
 for i in range(len(fight_urls)):
-    if i%10==0 and i!=0:
+    if i%100==0 :
         print i, fight_urls[i], fight_dates[i]
-        break
     
     # Store fight event, location and date
     title = fight_titles[i]
