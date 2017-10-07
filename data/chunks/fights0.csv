@@ -1,0 +1,401 @@
+body,body_attempts,clinch,clinch_attempts,date,distance,distance_attempts,fight_id,ground,ground_attempts,head,head_attempts,kd,leg,leg_attempts,location,method,name,pass,referee,reversals,round,sig_attempts,sig_strikes,strike_attempts,strikes,sub_attempts,takedowns,td_attempts,title,win/loss
+0,0,0,0,"September 22, 2017",0,0,0,0,0,0,0,0,0,0,"Saitama, Saitama, Japan",Submission,Ovince Saint Preux,3,Leon Roberts,0,1,0,0,3,3,1,0,0,UFC Fight Night: Saint Preux vs. Okami,W
+0,0,0,0,"September 22, 2017",0,0,0,0,0,0,0,0,0,0,"Saitama, Saitama, Japan",Submission,Yushin Okami,0,Leon Roberts,0,1,0,0,0,0,1,0,1,UFC Fight Night: Saint Preux vs. Okami,L
+1,4,9,15,"September 22, 2017",30,71,1,3,5,41,87,0,0,0,"Saitama, Saitama, Japan",Decision,Claudia Gadelha,0,John Sharp,0,3,91,42,96,47,2,0,7,UFC Fight Night: Saint Preux vs. Okami,L
+50,58,18,25,"September 22, 2017",45,107,1,78,109,83,175,0,8,8,"Saitama, Saitama, Japan",Decision,Jessica Andrade,5,John Sharp,0,3,241,141,355,242,0,4,7,UFC Fight Night: Saint Preux vs. Okami,W
+1,1,0,0,"September 22, 2017",2,3,2,0,0,1,2,0,0,0,"Saitama, Saitama, Japan",KO/TKO,Takanori Gomi,0,Steve Perceval,0,1,3,2,3,2,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+2,2,0,0,"September 22, 2017",8,9,2,5,11,8,15,1,3,3,"Saitama, Saitama, Japan",KO/TKO,Dong Hyun Kim,0,Steve Perceval,0,1,20,13,20,13,0,0,0,UFC Fight Night: Saint Preux vs. Okami,W
+2,3,1,1,"September 22, 2017",39,65,3,0,0,35,60,2,3,3,"Saitama, Saitama, Japan",KO/TKO,Gokhan Saki,0,Greg Kleynjans,0,1,66,40,66,40,0,0,0,UFC Fight Night: Saint Preux vs. Okami,W
+4,5,8,8,"September 22, 2017",12,37,3,0,0,16,40,0,0,0,"Saitama, Saitama, Japan",KO/TKO,Henrique da Silva,0,Greg Kleynjans,0,1,45,20,46,21,0,0,1,UFC Fight Night: Saint Preux vs. Okami,L
+6,8,2,2,"September 22, 2017",25,59,4,23,37,32,77,1,12,13,"Saitama, Saitama, Japan",Decision,Teruto Ishihara,2,John Sharp,0,3,98,50,127,77,0,2,6,UFC Fight Night: Saint Preux vs. Okami,W
+15,21,13,13,"September 22, 2017",33,68,4,2,4,30,61,0,3,3,"Saitama, Saitama, Japan",Decision,Rolando Dy,0,John Sharp,0,3,85,48,89,52,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+1,1,0,0,"September 22, 2017",9,22,5,0,0,6,18,0,2,3,"Saitama, Saitama, Japan",Submission,Jussier Formiga,4,Leon Roberts,0,1,22,9,27,12,2,1,1,UFC Fight Night: Saint Preux vs. Okami,W
+9,13,2,2,"September 22, 2017",14,30,5,0,0,6,16,0,1,3,"Saitama, Saitama, Japan",Submission,Ulka Sasaki,0,Leon Roberts,0,1,32,16,54,36,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+14,22,0,1,"September 22, 2017",27,85,6,0,0,11,60,0,2,4,"Saitama, Saitama, Japan",Decision,Keita Nakamura,2,Greg Kleynjans,0,3,86,27,88,29,0,2,2,UFC Fight Night: Saint Preux vs. Okami,W
+3,6,1,1,"September 22, 2017",37,122,6,0,0,32,113,0,3,4,"Saitama, Saitama, Japan",Decision,Alex Morono,0,Greg Kleynjans,0,3,123,38,124,39,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+26,29,12,16,"September 22, 2017",123,268,7,0,0,100,244,0,9,11,"Saitama, Saitama, Japan",Decision,Syuri Kondo,0,Steve Perceval,0,3,284,135,286,137,0,0,0,UFC Fight Night: Saint Preux vs. Okami,W
+12,27,3,11,"September 22, 2017",92,329,7,0,0,73,299,0,10,14,"Saitama, Saitama, Japan",Decision,Chanmi Jeon,0,Steve Perceval,0,3,340,95,344,99,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+13,20,28,35,"September 22, 2017",22,56,8,1,4,36,68,0,2,7,"Saitama, Saitama, Japan",Decision,Shinsho Anzai,1,John Sharp,0,3,95,51,152,97,0,1,12,UFC Fight Night: Saint Preux vs. Okami,W
+7,12,30,36,"September 22, 2017",19,59,8,0,0,29,70,0,13,13,"Saitama, Saitama, Japan",Decision,Luke Jumeau,0,John Sharp,0,3,95,49,99,53,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+4,7,3,5,"September 22, 2017",54,172,9,6,6,35,137,1,24,39,"Saitama, Saitama, Japan",Decision,Daichi Abe,1,Greg Kleynjans,0,3,183,63,185,65,0,1,1,UFC Fight Night: Saint Preux vs. Okami,W
+4,6,0,0,"September 22, 2017",43,133,9,0,0,26,108,0,13,19,"Saitama, Saitama, Japan",Decision,Hyun Gyu Lim,0,Greg Kleynjans,0,3,133,43,133,43,0,0,0,UFC Fight Night: Saint Preux vs. Okami,L
+8,13,3,7,"September 16, 2017",21,32,10,34,46,40,61,0,10,11,"Pittsburgh, Pennsylvania, USA",KO/TKO,Luke Rockhold,2,Dan Miragliotta,0,2,85,58,97,68,0,2,5,UFC Fight Night: Rockhold vs. Branch,W
+10,12,8,10,"September 16, 2017",17,46,10,0,0,13,42,0,2,2,"Pittsburgh, Pennsylvania, USA",KO/TKO,David Branch,0,Dan Miragliotta,0,2,56,25,82,51,0,1,2,UFC Fight Night: Rockhold vs. Branch,L
+0,0,6,6,"September 16, 2017",4,11,11,1,1,10,17,1,1,1,"Pittsburgh, Pennsylvania, USA",KO/TKO,Mike Perry,0,Keith Peterson,0,1,18,11,18,11,0,0,0,UFC Fight Night: Rockhold vs. Branch,W
+4,5,3,3,"September 16, 2017",3,10,11,0,0,1,7,0,1,1,"Pittsburgh, Pennsylvania, USA",KO/TKO,Alex Reyes,0,Keith Peterson,0,1,13,6,13,6,0,0,0,UFC Fight Night: Rockhold vs. Branch,L
+7,8,10,20,"September 16, 2017",52,108,12,3,6,26,90,0,32,36,"Pittsburgh, Pennsylvania, USA",KO/TKO,Hector Lombard,0,Dan Miragliotta,0,3,134,65,137,68,0,1,2,UFC Fight Night: Rockhold vs. Branch,L
+6,10,6,9,"September 16, 2017",27,101,12,2,5,27,102,1,2,3,"Pittsburgh, Pennsylvania, USA",KO/TKO,Anthony Smith,0,Dan Miragliotta,0,3,115,35,118,38,0,0,1,UFC Fight Night: Rockhold vs. Branch,W
+1,3,1,6,"September 16, 2017",12,34,13,7,16,19,53,1,0,0,"Pittsburgh, Pennsylvania, USA",Submission,Gregor Gillespie,6,Rob Hinds,0,2,56,20,73,34,1,4,6,UFC Fight Night: Rockhold vs. Branch,W
+5,7,5,5,"September 16, 2017",16,36,13,1,2,17,36,0,0,0,"Pittsburgh, Pennsylvania, USA",Submission,Jason Gonzalez,0,Rob Hinds,0,2,43,22,50,27,0,0,0,UFC Fight Night: Rockhold vs. Branch,L
+4,6,0,0,"September 16, 2017",15,46,14,1,2,8,35,1,4,7,"Pittsburgh, Pennsylvania, USA",KO/TKO,Kamaru Usman,0,Dan Miragliotta,0,1,48,16,48,16,0,0,0,UFC Fight Night: Rockhold vs. Branch,W
+3,3,0,0,"September 16, 2017",13,27,14,0,0,10,23,0,0,1,"Pittsburgh, Pennsylvania, USA",KO/TKO,Sergio Moraes,0,Dan Miragliotta,0,1,27,13,27,13,0,0,0,UFC Fight Night: Rockhold vs. Branch,L
+1,2,0,0,"September 16, 2017",36,126,15,0,0,35,124,0,0,0,"Pittsburgh, Pennsylvania, USA",Decision,Justin Ledet,0,Keith Peterson,0,3,126,36,126,36,0,0,0,UFC Fight Night: Rockhold vs. Branch,W
+9,24,1,2,"September 16, 2017",36,82,15,0,0,28,60,0,0,0,"Pittsburgh, Pennsylvania, USA",Decision,Zu Anyanwu,0,Keith Peterson,0,3,84,37,84,37,0,0,0,UFC Fight Night: Rockhold vs. Branch,L
+1,2,2,2,"September 16, 2017",9,35,16,4,4,13,37,0,1,2,"Pittsburgh, Pennsylvania, USA",Decision,Tony Martin,2,Rob Hinds,1,3,41,15,96,56,1,0,0,UFC Fight Night: Rockhold vs. Branch,L
+3,5,3,3,"September 16, 2017",10,33,16,7,10,10,33,0,7,8,"Pittsburgh, Pennsylvania, USA",Decision,Olivier Aubin-Mercier,6,Rob Hinds,0,3,46,20,78,47,0,4,7,UFC Fight Night: Rockhold vs. Branch,W
+0,0,0,0,"September 16, 2017",0,1,17,0,0,0,1,0,0,0,"Pittsburgh, Pennsylvania, USA",KO/TKO,Anthony Hamilton,0,Dan Miragliotta,0,1,1,0,1,0,0,0,0,UFC Fight Night: Rockhold vs. Branch,L
+0,1,0,0,"September 16, 2017",1,2,17,4,4,5,5,0,0,0,"Pittsburgh, Pennsylvania, USA",KO/TKO,Daniel Spitz,0,Dan Miragliotta,0,1,6,5,6,5,0,1,1,UFC Fight Night: Rockhold vs. Branch,W
+3,4,15,27,"September 16, 2017",15,42,18,14,21,40,85,1,1,1,"Pittsburgh, Pennsylvania, USA",KO/TKO,Krzysztof Jotko,3,Rob Hinds,0,2,90,44,108,60,1,1,2,UFC Fight Night: Rockhold vs. Branch,L
+6,7,0,0,"September 16, 2017",19,33,18,7,11,15,32,1,5,5,"Pittsburgh, Pennsylvania, USA",KO/TKO,Uriah Hall,0,Rob Hinds,0,2,44,26,44,26,0,0,0,UFC Fight Night: Rockhold vs. Branch,W
+9,14,2,3,"September 16, 2017",30,84,19,3,5,11,60,0,15,18,"Pittsburgh, Pennsylvania, USA",KO/TKO,Jason Saggo,0,Keith Peterson,0,2,92,35,99,39,0,1,2,UFC Fight Night: Rockhold vs. Branch,L
+8,10,6,10,"September 16, 2017",31,78,19,5,7,27,77,1,7,8,"Pittsburgh, Pennsylvania, USA",KO/TKO,Gilbert Burns,0,Keith Peterson,0,2,95,42,104,50,0,2,3,UFC Fight Night: Rockhold vs. Branch,W
+14,22,1,2,"September 09, 2017",85,173,20,0,1,16,65,0,56,89,"Edmonton, Alberta, Canada",Decision,Amanda Nunes,2,John McCarthy,0,5,176,86,180,90,0,2,8,UFC 215: Nunes vs Shevchenko 2,W
+9,13,3,6,"September 09, 2017",65,183,20,4,5,30,138,0,33,43,"Edmonton, Alberta, Canada",Decision,Valentina Shevchenko,0,John McCarthy,0,5,194,72,209,85,0,0,1,UFC 215: Nunes vs Shevchenko 2,L
+1,1,0,0,"September 09, 2017",1,5,21,0,0,0,3,0,0,1,"Edmonton, Alberta, Canada",Submission,Neil Magny,0,Yves Lavigne,0,1,5,1,9,5,0,0,0,UFC 215: Nunes vs Shevchenko 2,L
+1,1,0,0,"September 09, 2017",1,1,21,12,15,11,14,0,1,1,"Edmonton, Alberta, Canada",Submission,Rafael Dos Anjos,3,Yves Lavigne,0,1,16,13,21,17,1,0,0,UFC 215: Nunes vs Shevchenko 2,W
+7,8,2,3,"September 09, 2017",24,41,22,8,14,24,47,1,3,3,"Edmonton, Alberta, Canada",KO/TKO,Henry Cejudo,0,Jerin Valel,0,2,58,34,64,39,0,2,2,UFC 215: Nunes vs Shevchenko 2,W
+0,0,0,0,"September 09, 2017",5,25,22,0,0,4,24,0,1,1,"Edmonton, Alberta, Canada",KO/TKO,Wilson Reis,0,Jerin Valel,0,2,25,5,25,5,0,0,1,UFC 215: Nunes vs Shevchenko 2,L
+5,5,4,6,"September 09, 2017",13,38,23,27,35,38,73,0,1,1,"Edmonton, Alberta, Canada",Decision,Ilir Latifi,4,Dan Miragliotta,0,3,79,44,94,59,0,4,5,UFC 215: Nunes vs Shevchenko 2,W
+8,12,8,9,"September 09, 2017",21,43,23,2,2,12,25,0,11,17,"Edmonton, Alberta, Canada",Decision,Tyson Pedro,0,Dan Miragliotta,0,3,54,31,68,44,0,0,0,UFC 215: Nunes vs Shevchenko 2,L
+11,18,7,10,"September 09, 2017",79,229,24,10,11,53,197,5,32,35,"Edmonton, Alberta, Canada",Decision,Jeremy Stephens,1,Jerin Valel,0,3,250,96,255,101,0,0,0,UFC 215: Nunes vs Shevchenko 2,W
+1,4,2,2,"September 09, 2017",27,124,24,0,3,27,122,0,1,3,"Edmonton, Alberta, Canada",Decision,Gilbert Melendez,0,Jerin Valel,0,3,129,29,130,30,0,0,0,UFC 215: Nunes vs Shevchenko 2,L
+2,3,9,11,"September 09, 2017",1,9,25,19,38,25,52,0,2,3,"Edmonton, Alberta, Canada",Submission,Sara McMann,2,Yves Lavigne,0,2,58,29,67,36,0,1,5,UFC 215: Nunes vs Shevchenko 2,L
+1,1,14,14,"September 09, 2017",0,4,25,3,3,16,20,0,0,0,"Edmonton, Alberta, Canada",Submission,Ketlen Vieira,1,Yves Lavigne,0,2,21,17,45,35,2,1,1,UFC 215: Nunes vs Shevchenko 2,W
+0,0,0,1,"September 09, 2017",0,1,26,3,4,2,5,0,1,1,"Edmonton, Alberta, Canada",Submission,Sarah Moras,0,Yves Lavigne,0,1,6,3,9,5,1,0,1,UFC 215: Nunes vs Shevchenko 2,W
+2,4,2,4,"September 09, 2017",0,4,26,1,1,1,5,0,0,0,"Edmonton, Alberta, Canada",Submission,Ashlee Evans-Smith,1,Yves Lavigne,0,1,9,3,11,5,0,0,0,UFC 215: Nunes vs Shevchenko 2,L
+5,8,9,15,"September 09, 2017",12,64,27,2,3,14,69,0,4,5,"Edmonton, Alberta, Canada",Decision,Gavin Tucker,0,Kyle Cardinal,0,3,82,23,105,43,1,0,4,UFC 215: Nunes vs Shevchenko 2,L
+40,47,23,39,"September 09, 2017",31,68,27,88,130,96,182,1,6,8,"Edmonton, Alberta, Canada",Decision,Rick Glenn,1,Kyle Cardinal,0,3,237,142,289,184,1,4,7,UFC 215: Nunes vs Shevchenko 2,W
+8,19,10,13,"September 09, 2017",18,69,28,0,1,11,41,0,9,23,"Edmonton, Alberta, Canada",KO/TKO,Mitch Clarke,0,Jerin Valel,0,2,83,28,90,34,0,0,4,UFC 215: Nunes vs Shevchenko 2,L
+10,13,28,37,"September 09, 2017",28,75,28,1,3,46,100,3,1,2,"Edmonton, Alberta, Canada",KO/TKO,Alex White,0,Jerin Valel,0,2,115,57,122,62,0,0,0,UFC 215: Nunes vs Shevchenko 2,W
+9,14,6,13,"September 09, 2017",26,101,29,0,0,18,95,0,5,5,"Edmonton, Alberta, Canada",Decision,Luis Henrique,0,Dan Miragliotta,0,3,114,32,137,54,0,0,0,UFC 215: Nunes vs Shevchenko 2,L
+1,2,5,8,"September 09, 2017",14,34,29,5,8,23,48,1,0,0,"Edmonton, Alberta, Canada",Decision,Arjan Bhullar,1,Dan Miragliotta,0,3,50,24,96,60,0,1,1,UFC 215: Nunes vs Shevchenko 2,W
+12,21,0,0,"September 09, 2017",24,61,30,2,2,7,29,1,7,13,"Edmonton, Alberta, Canada",KO/TKO,Kajan Johnson,0,John McCarthy,0,3,63,26,63,26,0,0,0,UFC 215: Nunes vs Shevchenko 2,W
+0,0,0,0,"September 09, 2017",16,31,30,0,0,8,21,0,8,10,"Edmonton, Alberta, Canada",KO/TKO,Adriano Martins,0,John McCarthy,0,3,31,16,31,16,1,0,0,UFC 215: Nunes vs Shevchenko 2,L
+18,27,3,11,"September 02, 2017",114,214,31,18,28,84,178,1,33,48,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Alexander Volkov,1,Marc Goddard,0,3,253,135,264,144,0,2,2,UFC Fight Night: Volkov vs. Struve,W
+8,27,0,0,"September 02, 2017",41,162,31,0,0,26,125,0,7,10,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Stefan Struve,0,Marc Goddard,0,3,162,41,162,41,0,0,0,UFC Fight Night: Volkov vs. Struve,L
+7,7,14,16,"September 02, 2017",18,43,32,11,22,36,74,3,0,0,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Siyar Bahadurzada,0,Leon Roberts,0,2,81,43,82,44,1,0,0,UFC Fight Night: Volkov vs. Struve,W
+4,6,2,3,"September 02, 2017",22,43,32,0,0,11,30,0,9,10,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Rob Wilkinson,0,Leon Roberts,0,2,46,24,58,34,0,2,5,UFC Fight Night: Volkov vs. Struve,L
+9,10,10,11,"September 02, 2017",24,68,33,23,48,47,116,0,1,1,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Marion Reneau,2,Kevin Sataki,1,3,127,57,192,118,5,0,0,UFC Fight Night: Volkov vs. Struve,W
+4,5,1,1,"September 02, 2017",18,83,33,3,4,11,75,0,7,8,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Talita Bernardo,2,Kevin Sataki,0,3,88,22,112,38,1,3,7,UFC Fight Night: Volkov vs. Struve,L
+3,4,2,2,"September 02, 2017",21,49,34,0,0,13,40,0,7,7,"Rotterdam, Zuid-Holland, Netherlands",Decision,Leon Edwards,5,Neil Hall,0,3,51,23,87,58,3,3,6,UFC Fight Night: Volkov vs. Struve,W
+9,10,23,24,"September 02, 2017",17,56,34,4,7,28,65,1,7,12,"Rotterdam, Zuid-Holland, Netherlands",Decision,Bryan Barberena,0,Neil Hall,0,3,87,44,163,115,1,0,0,UFC Fight Night: Volkov vs. Struve,L
+1,1,1,1,"September 02, 2017",32,67,35,16,19,42,79,0,6,7,"Rotterdam, Zuid-Holland, Netherlands",Decision,Darren Till,0,Marc Goddard,0,3,87,49,88,50,0,1,1,UFC Fight Night: Volkov vs. Struve,W
+2,7,0,1,"September 02, 2017",32,141,35,2,2,16,109,0,16,28,"Rotterdam, Zuid-Holland, Netherlands",Decision,Bojan Velickovic,0,Marc Goddard,0,3,144,34,181,69,0,0,3,UFC Fight Night: Volkov vs. Struve,L
+0,1,0,0,"September 02, 2017",2,4,36,0,0,1,2,1,1,1,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Mairbek Taisumov,0,Leon Roberts,0,1,4,2,4,2,0,0,0,UFC Fight Night: Volkov vs. Struve,W
+0,1,0,0,"September 02, 2017",0,7,36,0,0,0,6,0,0,0,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Felipe Silva,0,Leon Roberts,0,1,7,0,7,0,0,0,0,UFC Fight Night: Volkov vs. Struve,L
+5,10,4,5,"September 02, 2017",11,31,37,11,12,21,38,0,0,0,"Rotterdam, Zuid-Holland, Netherlands",Submission,Michel Prazeres,15,Kevin Sataki,0,3,48,26,69,43,1,4,6,UFC Fight Night: Volkov vs. Struve,W
+5,8,2,3,"September 02, 2017",8,27,37,0,0,4,21,0,1,1,"Rotterdam, Zuid-Holland, Netherlands",Submission,Mads Burnell,0,Kevin Sataki,0,3,30,10,32,12,0,0,0,UFC Fight Night: Volkov vs. Struve,L
+6,11,3,9,"September 02, 2017",31,99,38,0,0,22,90,0,6,7,"Rotterdam, Zuid-Holland, Netherlands",Decision,Rustam Khabilov,0,Neil Hall,0,3,108,34,109,35,0,3,11,UFC Fight Night: Volkov vs. Struve,W
+7,12,8,15,"September 02, 2017",39,96,38,0,0,22,80,0,18,19,"Rotterdam, Zuid-Holland, Netherlands",Decision,Desmond Green,0,Neil Hall,0,3,111,47,119,53,0,1,2,UFC Fight Night: Volkov vs. Struve,L
+0,4,0,0,"September 02, 2017",22,53,39,2,2,14,39,0,10,12,"Rotterdam, Zuid-Holland, Netherlands",Decision,Francimar Barroso,1,Marc Goddard,0,3,55,24,69,36,0,2,14,UFC Fight Night: Volkov vs. Struve,L
+10,16,2,6,"September 02, 2017",44,144,39,0,0,22,114,0,14,20,"Rotterdam, Zuid-Holland, Netherlands",Decision,Aleksandar Rakic,0,Marc Goddard,0,3,150,46,179,75,0,0,0,UFC Fight Night: Volkov vs. Struve,W
+7,14,14,21,"September 02, 2017",10,46,40,0,0,6,40,0,11,13,"Rotterdam, Zuid-Holland, Netherlands",Submission,Mike Santiago,0,Leon Roberts,0,2,67,24,77,32,0,2,7,UFC Fight Night: Volkov vs. Struve,L
+8,10,8,11,"September 02, 2017",25,41,40,12,13,34,52,0,3,3,"Rotterdam, Zuid-Holland, Netherlands",Submission,Zabit Magomedsharipov,2,Leon Roberts,2,2,65,45,97,70,2,1,3,UFC Fight Night: Volkov vs. Struve,W
+0,1,0,1,"September 02, 2017",1,11,41,0,1,1,12,0,0,0,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Bojan Mihajlovic,0,Kevin Sataki,0,2,13,1,21,7,0,0,0,UFC Fight Night: Volkov vs. Struve,L
+16,17,6,12,"September 02, 2017",9,22,41,62,91,59,105,0,2,3,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Abdul-Kerim Edilov,0,Kevin Sataki,0,2,125,77,210,150,1,2,2,UFC Fight Night: Volkov vs. Struve,W
+3,6,13,24,"September 02, 2017",24,54,42,4,8,37,77,1,1,3,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Thibault Gouti,0,Neil Hall,0,1,86,41,88,43,0,0,0,UFC Fight Night: Volkov vs. Struve,W
+6,12,3,5,"September 02, 2017",19,49,42,0,0,14,39,0,2,3,"Rotterdam, Zuid-Holland, Netherlands",KO/TKO,Andrew Holbrook,0,Neil Hall,0,1,54,22,54,22,0,0,6,UFC Fight Night: Volkov vs. Struve,L
+11,17,2,2,"August 05, 2017",72,230,43,2,3,55,203,0,10,15,"Mexico City, Distrito Federal, Mexico",Decision,Sergio Pettis,0,John McCarthy,0,5,235,76,244,84,0,0,1,UFC Fight Night: Pettis vs. Moreno,W
+12,19,1,4,"August 05, 2017",38,147,43,6,10,26,130,0,7,12,"Mexico City, Distrito Federal, Mexico",Decision,Brandon Moreno,1,John McCarthy,0,5,161,45,193,70,0,4,8,UFC Fight Night: Pettis vs. Moreno,L
+5,7,6,9,"August 05, 2017",29,91,44,10,13,40,106,0,0,0,"Mexico City, Distrito Federal, Mexico",Decision,Randa Markos,5,Jerin Valel,1,3,113,45,141,71,0,4,11,UFC Fight Night: Pettis vs. Moreno,L
+7,10,13,16,"August 05, 2017",47,137,44,4,4,44,133,0,13,14,"Mexico City, Distrito Federal, Mexico",Decision,Alexa Grasso,1,Jerin Valel,1,3,157,64,224,121,0,0,0,UFC Fight Night: Pettis vs. Moreno,W
+1,1,0,0,"August 05, 2017",5,9,45,0,0,3,7,0,1,1,"Mexico City, Distrito Federal, Mexico",KO/TKO,Alan Jouban,0,Gary Copeland,0,1,9,5,9,5,0,0,0,UFC Fight Night: Pettis vs. Moreno,L
+1,1,0,0,"August 05, 2017",6,13,45,4,6,6,15,1,3,3,"Mexico City, Distrito Federal, Mexico",KO/TKO,Niko Price,1,Gary Copeland,0,1,19,10,19,10,0,0,0,UFC Fight Night: Pettis vs. Moreno,W
+1,1,0,0,"August 05, 2017",1,3,46,0,0,0,1,0,0,1,"Mexico City, Distrito Federal, Mexico",KO/TKO,Martin Bravo,0,Jerin Valel,0,1,3,1,3,1,0,0,0,UFC Fight Night: Pettis vs. Moreno,L
+1,1,0,0,"August 05, 2017",3,5,46,2,2,3,5,1,1,1,"Mexico City, Distrito Federal, Mexico",KO/TKO,Humberto Bandenay,0,Jerin Valel,0,1,7,5,7,5,0,0,0,UFC Fight Night: Pettis vs. Moreno,W
+16,18,20,25,"August 05, 2017",20,62,47,0,0,24,69,0,0,0,"Mexico City, Distrito Federal, Mexico",Decision,Sam Alvey,0,John McCarthy,0,3,87,40,99,51,0,0,0,UFC Fight Night: Pettis vs. Moreno,W
+5,9,2,2,"August 05, 2017",15,43,47,0,0,8,32,0,4,4,"Mexico City, Distrito Federal, Mexico",Decision,Rashad Evans,0,John McCarthy,0,3,45,17,58,28,0,2,8,UFC Fight Night: Pettis vs. Moreno,L
+6,9,3,7,"August 05, 2017",38,128,48,3,6,22,107,0,16,25,"Mexico City, Distrito Federal, Mexico",Decision,Alejandro Perez,1,Kevin MacDonald,0,3,141,44,195,97,0,1,6,UFC Fight Night: Pettis vs. Moreno,W
+9,11,1,5,"August 05, 2017",42,102,48,0,0,26,86,3,8,10,"Mexico City, Distrito Federal, Mexico",Decision,Andre Soukhamthath,0,Kevin MacDonald,0,3,107,43,108,44,0,0,0,UFC Fight Night: Pettis vs. Moreno,L
+0,1,0,0,"August 05, 2017",0,4,49,0,0,0,3,0,0,0,"Mexico City, Distrito Federal, Mexico",KO/TKO,Bradley Scott,0,Bladimir Puga,0,1,4,0,4,0,1,0,0,UFC Fight Night: Pettis vs. Moreno,L
+0,1,0,0,"August 05, 2017",4,6,49,34,48,35,49,0,3,4,"Mexico City, Distrito Federal, Mexico",KO/TKO,Jack Hermansson,2,Bladimir Puga,0,1,54,38,65,49,0,1,1,UFC Fight Night: Pettis vs. Moreno,W
+1,1,0,0,"August 05, 2017",4,6,50,4,4,7,9,1,0,0,"Mexico City, Distrito Federal, Mexico",KO/TKO,Dustin Ortiz,0,Jerin Valel,0,1,10,8,10,8,0,0,0,UFC Fight Night: Pettis vs. Moreno,W
+0,0,0,0,"August 05, 2017",1,6,50,0,0,1,6,0,0,0,"Mexico City, Distrito Federal, Mexico",KO/TKO,Hector Sandoval,0,Jerin Valel,0,1,6,1,6,1,0,0,0,UFC Fight Night: Pettis vs. Moreno,L
+0,0,0,0,"August 05, 2017",0,0,51,0,0,0,0,0,0,0,"Mexico City, Distrito Federal, Mexico",Submission,Henry Briones,0,Kevin MacDonald,0,1,0,0,10,9,0,0,0,UFC Fight Night: Pettis vs. Moreno,L
+0,0,0,0,"August 05, 2017",2,3,51,1,1,1,2,0,2,2,"Mexico City, Distrito Federal, Mexico",Submission,Rani Yahya,2,Kevin MacDonald,0,1,4,3,15,14,2,1,2,UFC Fight Night: Pettis vs. Moreno,W
+11,17,1,4,"August 05, 2017",48,92,52,10,16,34,81,0,14,14,"Mexico City, Distrito Federal, Mexico",Decision,Jose Quinonez,2,John McCarthy,0,3,112,59,125,70,0,1,4,UFC Fight Night: Pettis vs. Moreno,W
+6,12,1,1,"August 05, 2017",25,74,52,1,1,11,51,0,10,13,"Mexico City, Distrito Federal, Mexico",Decision,Diego Rivas,1,John McCarthy,1,3,76,27,78,29,2,1,1,UFC Fight Night: Pettis vs. Moreno,L
+0,0,1,2,"August 05, 2017",1,4,53,10,16,12,22,1,0,0,"Mexico City, Distrito Federal, Mexico",Submission,Joseph Morales,1,Bladimir Puga,0,1,22,12,26,15,1,0,0,UFC Fight Night: Pettis vs. Moreno,W
+0,1,0,0,"August 05, 2017",1,3,53,1,3,2,5,0,0,0,"Mexico City, Distrito Federal, Mexico",Submission,Roberto Sanchez,0,Bladimir Puga,0,1,6,2,19,12,0,1,1,UFC Fight Night: Pettis vs. Moreno,L
+0,0,0,0,"August 05, 2017",2,7,54,0,0,2,7,0,0,0,"Mexico City, Distrito Federal, Mexico",Submission,Alvaro Herrera,0,Gary Copeland,0,1,7,2,7,2,1,0,0,UFC Fight Night: Pettis vs. Moreno,L
+0,3,0,0,"August 05, 2017",6,12,54,0,0,3,5,0,3,4,"Mexico City, Distrito Federal, Mexico",Submission,Jordan Rinaldi,1,Gary Copeland,0,1,12,6,13,7,1,0,0,UFC Fight Night: Pettis vs. Moreno,W
+12,16,12,17,"July 29, 2017",46,123,55,0,0,29,99,0,17,25,"Anaheim, California, USA",Overturned,Daniel Cormier,0,John McCarthy,0,3,140,58,142,60,0,0,3,UFC 214: Cormier vs. Jones 2,NC
+32,43,4,6,"July 29, 2017",76,142,55,15,17,33,74,1,30,48,"Anaheim, California, USA",Overturned,Jon Jones,0,John McCarthy,0,3,165,95,165,95,0,0,3,UFC 214: Cormier vs. Jones 2,NC
+13,18,1,1,"July 29, 2017",56,152,56,0,0,40,131,1,4,4,"Anaheim, California, USA",Decision,Tyron Woodley,0,Herb Dean,0,5,153,57,153,57,0,0,0,UFC 214: Cormier vs. Jones 2,W
+2,3,2,2,"July 29, 2017",26,87,56,0,0,23,83,0,3,3,"Anaheim, California, USA",Decision,Demian Maia,0,Herb Dean,0,5,89,28,90,29,0,0,21,UFC 214: Cormier vs. Jones 2,L
+15,22,11,22,"July 29, 2017",58,115,57,5,6,38,99,1,21,22,"Anaheim, California, USA",KO/TKO,Cris Cyborg,0,Mike Beltran,0,3,143,74,144,75,0,0,1,UFC 214: Cormier vs. Jones 2,W
+9,17,4,7,"July 29, 2017",28,78,57,0,0,13,54,0,10,14,"Anaheim, California, USA",KO/TKO,Tonya Evinger,0,Mike Beltran,0,3,85,32,87,34,0,1,4,UFC 214: Cormier vs. Jones 2,L
+28,37,42,55,"July 29, 2017",35,101,58,0,0,47,116,0,2,3,"Anaheim, California, USA",Decision,Robbie Lawler,0,John McCarthy,0,3,156,77,164,85,0,0,1,UFC 214: Cormier vs. Jones 2,W
+26,32,25,40,"July 29, 2017",56,125,58,1,1,50,127,0,6,7,"Anaheim, California, USA",Decision,Donald Cerrone,2,John McCarthy,0,3,166,82,185,99,0,1,10,UFC 214: Cormier vs. Jones 2,L
+1,1,2,2,"July 29, 2017",0,2,59,0,0,0,2,0,1,1,"Anaheim, California, USA",KO/TKO,Jimi Manuwa,0,Jason Herzog,0,1,4,2,4,2,0,0,0,UFC 214: Cormier vs. Jones 2,L
+1,1,8,9,"July 29, 2017",3,7,59,1,3,10,17,0,1,1,"Anaheim, California, USA",KO/TKO,Volkan Oezdemir,0,Jason Herzog,0,1,19,12,20,13,0,0,0,UFC 214: Cormier vs. Jones 2,W
+2,4,7,9,"July 29, 2017",25,40,60,10,13,37,55,0,3,3,"Anaheim, California, USA",KO/TKO,Ricardo Lamas,2,Mike Beltran,0,1,62,42,63,43,0,1,1,UFC 214: Cormier vs. Jones 2,W
+1,1,2,7,"July 29, 2017",5,26,60,1,2,7,33,0,0,1,"Anaheim, California, USA",KO/TKO,Jason Knight,0,Mike Beltran,0,1,35,8,45,18,0,0,1,UFC 214: Cormier vs. Jones 2,L
+15,23,7,8,"July 29, 2017",36,82,61,28,31,41,81,0,15,17,"Anaheim, California, USA",Decision,Aljamain Sterling,1,Herb Dean,0,3,121,71,166,112,0,1,1,UFC 214: Cormier vs. Jones 2,W
+6,13,2,2,"July 29, 2017",9,70,61,8,13,10,65,0,3,7,"Anaheim, California, USA",Decision,Renan Barao,3,Herb Dean,0,3,85,19,138,65,0,2,3,UFC 214: Cormier vs. Jones 2,L
+14,19,1,3,"July 29, 2017",64,217,62,0,0,49,198,0,2,3,"Anaheim, California, USA",Submission,Brian Ortega,0,Jason Herzog,0,3,220,65,220,65,1,0,2,UFC 214: Cormier vs. Jones 2,W
+8,13,0,0,"July 29, 2017",109,252,62,0,0,91,229,0,10,10,"Anaheim, California, USA",Submission,Renato Moicano,0,Jason Herzog,0,3,252,109,254,111,0,2,2,UFC 214: Cormier vs. Jones 2,L
+9,14,3,9,"July 29, 2017",70,193,63,0,0,51,173,0,13,15,"Anaheim, California, USA",Decision,Andre Fili,0,John McCarthy,0,3,202,73,205,75,0,0,2,UFC 214: Cormier vs. Jones 2,L
+8,10,1,5,"July 29, 2017",66,143,63,8,12,55,137,0,12,13,"Anaheim, California, USA",Decision,Calvin Kattar,0,John McCarthy,0,3,160,75,166,80,0,2,3,UFC 214: Cormier vs. Jones 2,W
+17,22,13,19,"July 29, 2017",60,118,64,13,20,62,127,0,7,8,"Anaheim, California, USA",Decision,Kailin Curran,2,Herb Dean,1,3,157,86,232,153,0,1,3,UFC 214: Cormier vs. Jones 2,L
+20,29,20,25,"July 29, 2017",47,138,64,15,18,60,150,0,2,2,"Anaheim, California, USA",Decision,Alexandra Albu,2,Herb Dean,0,3,181,82,221,109,0,5,8,UFC 214: Cormier vs. Jones 2,W
+5,8,1,2,"July 29, 2017",19,73,65,11,12,26,79,0,0,0,"Anaheim, California, USA",Decision,Eric Shelton,0,Mike Beltran,0,3,87,31,123,65,1,1,2,UFC 214: Cormier vs. Jones 2,L
+7,9,2,3,"July 29, 2017",20,72,65,5,5,15,66,0,5,5,"Anaheim, California, USA",Decision,Jarred Brooks,1,Mike Beltran,0,3,80,27,87,32,1,5,8,UFC 214: Cormier vs. Jones 2,W
+4,6,4,4,"July 29, 2017",7,14,66,0,0,4,7,0,3,5,"Anaheim, California, USA",KO/TKO,Joshua Burkman,0,Jason Herzog,0,1,18,11,18,11,0,0,1,UFC 214: Cormier vs. Jones 2,L
+4,6,5,7,"July 29, 2017",9,21,66,1,1,5,17,1,6,6,"Anaheim, California, USA",KO/TKO,Drew Dober,0,Jason Herzog,0,1,29,15,34,20,0,0,1,UFC 214: Cormier vs. Jones 2,W
+6,12,6,9,"July 22, 2017",24,59,67,6,8,25,59,0,5,5,"Uniondale, New York, USA",Submission,Chris Weidman,5,John McCarthy,0,3,76,36,124,75,2,7,13,UFC Fight Night: Weidman vs. Gastelum,W
+4,4,2,3,"July 22, 2017",14,34,67,10,10,21,42,1,1,1,"Uniondale, New York, USA",Submission,Kelvin Gastelum,0,John McCarthy,0,3,47,26,50,28,0,0,0,UFC Fight Night: Weidman vs. Gastelum,L
+18,21,22,34,"July 22, 2017",47,125,68,0,1,39,126,0,12,13,"Uniondale, New York, USA",Decision,Dennis Bermudez,0,Dan Miragliotta,0,3,160,69,194,101,0,1,6,UFC Fight Night: Weidman vs. Gastelum,L
+24,31,33,44,"July 22, 2017",34,107,68,3,3,42,119,0,4,4,"Uniondale, New York, USA",Decision,Darren Elkins,2,Dan Miragliotta,0,3,154,70,189,99,2,3,10,UFC Fight Night: Weidman vs. Gastelum,W
+7,9,12,18,"July 22, 2017",74,164,69,0,0,70,163,0,9,10,"Uniondale, New York, USA",Decision,Patrick Cummins,0,John McCarthy,0,3,182,86,188,92,0,1,11,UFC Fight Night: Weidman vs. Gastelum,W
+3,4,0,1,"July 22, 2017",67,189,69,5,6,66,189,0,3,3,"Uniondale, New York, USA",Decision,Gian Villante,0,John McCarthy,0,3,196,72,210,85,0,0,0,UFC Fight Night: Weidman vs. Gastelum,L
+17,29,8,10,"July 22, 2017",58,146,70,4,4,38,114,2,15,17,"Uniondale, New York, USA",Decision,Jimmie Rivera,0,Dan Miragliotta,0,3,160,70,165,75,0,2,6,UFC Fight Night: Weidman vs. Gastelum,W
+13,20,5,7,"July 22, 2017",67,160,70,0,0,36,121,0,23,26,"Uniondale, New York, USA",Decision,Thomas Almeida,0,Dan Miragliotta,0,3,167,72,167,72,0,0,0,UFC Fight Night: Weidman vs. Gastelum,L
+15,16,20,24,"July 22, 2017",54,140,71,1,1,57,146,0,3,3,"Uniondale, New York, USA",Decision,Lyman Good,0,Todd Anderson,0,3,165,75,182,89,0,1,1,UFC Fight Night: Weidman vs. Gastelum,L
+13,22,16,21,"July 22, 2017",67,198,71,0,0,56,181,0,14,16,"Uniondale, New York, USA",Decision,Elizeu Zaleski dos Santos,0,Todd Anderson,0,3,219,83,220,84,0,1,7,UFC Fight Night: Weidman vs. Gastelum,W
+2,3,1,3,"July 22, 2017",13,20,72,0,0,8,16,0,4,4,"Uniondale, New York, USA",KO/TKO,Rafael Natal,0,Keith Peterson,0,1,23,14,24,15,0,0,1,UFC Fight Night: Weidman vs. Gastelum,L
+1,1,2,2,"July 22, 2017",10,13,72,11,14,22,28,1,0,0,"Uniondale, New York, USA",KO/TKO,Eryk Anders,2,Keith Peterson,0,1,29,23,29,23,0,1,2,UFC Fight Night: Weidman vs. Gastelum,W
+3,4,0,0,"July 22, 2017",2,11,73,3,3,2,10,0,0,0,"Uniondale, New York, USA",KO/TKO,Ryan LaFlare,2,John McCarthy,0,2,14,5,17,8,0,0,2,UFC Fight Night: Weidman vs. Gastelum,L
+1,1,2,2,"July 22, 2017",6,18,73,0,1,4,17,1,3,3,"Uniondale, New York, USA",KO/TKO,Alex Oliveira,0,John McCarthy,0,2,21,8,21,8,1,0,1,UFC Fight Night: Weidman vs. Gastelum,W
+15,19,10,15,"July 22, 2017",58,173,74,0,0,40,150,0,13,19,"Uniondale, New York, USA",Decision,Damian Grabowski,0,Dan Miragliotta,0,3,188,68,190,69,0,0,5,UFC Fight Night: Weidman vs. Gastelum,L
+21,26,14,17,"July 22, 2017",97,211,74,0,0,61,168,0,29,34,"Uniondale, New York, USA",Decision,Chase Sherman,0,Dan Miragliotta,0,3,228,111,229,112,0,0,0,UFC Fight Night: Weidman vs. Gastelum,W
+3,3,0,0,"July 22, 2017",22,51,75,1,3,13,43,0,7,8,"Uniondale, New York, USA",Decision,Kyle Bochniak,0,Todd Anderson,0,3,54,23,76,43,0,0,0,UFC Fight Night: Weidman vs. Gastelum,L
+6,7,7,11,"July 22, 2017",13,44,75,21,39,30,82,0,5,5,"Uniondale, New York, USA",Decision,Jeremy Kennedy,4,Todd Anderson,0,3,94,41,118,59,0,8,14,UFC Fight Night: Weidman vs. Gastelum,W
+3,3,3,4,"July 22, 2017",5,12,76,0,0,2,7,0,3,6,"Uniondale, New York, USA",Submission,Brian Kelleher,0,Keith Peterson,0,1,16,8,22,14,0,1,3,UFC Fight Night: Weidman vs. Gastelum,L
+2,3,1,1,"July 22, 2017",4,14,76,0,0,2,11,0,1,1,"Uniondale, New York, USA",Submission,Marlon Vera,0,Keith Peterson,0,1,15,5,15,5,2,0,0,UFC Fight Night: Weidman vs. Gastelum,W
+2,5,11,15,"July 22, 2017",8,26,77,0,0,7,24,0,10,12,"Uniondale, New York, USA",KO/TKO,Tim Johnson,0,John McCarthy,0,1,41,19,50,25,0,0,0,UFC Fight Night: Weidman vs. Gastelum,L
+9,11,7,8,"July 22, 2017",12,24,77,2,3,11,23,1,1,1,"Uniondale, New York, USA",KO/TKO,Junior Albini,0,John McCarthy,0,1,35,21,42,28,0,0,0,UFC Fight Night: Weidman vs. Gastelum,W
+9,12,13,16,"July 22, 2017",77,164,78,12,17,87,179,3,6,6,"Uniondale, New York, USA",Decision,Shane Burgos,0,Keith Peterson,0,3,197,102,243,144,0,1,1,UFC Fight Night: Weidman vs. Gastelum,W
+9,16,2,3,"July 22, 2017",49,174,78,0,0,40,159,0,2,2,"Uniondale, New York, USA",Decision,Godofredo Pepey,0,Keith Peterson,0,3,177,51,178,52,0,0,14,UFC Fight Night: Weidman vs. Gastelum,L
+7,13,2,4,"July 22, 2017",12,50,79,8,9,6,40,0,9,10,"Uniondale, New York, USA",Decision,Frankie Perez,0,Todd Anderson,0,3,63,22,99,53,0,3,5,UFC Fight Night: Weidman vs. Gastelum,L
+6,8,2,2,"July 22, 2017",12,30,79,9,11,16,31,0,1,4,"Uniondale, New York, USA",Decision,Chris Wade,7,Todd Anderson,1,3,43,23,79,51,2,3,8,UFC Fight Night: Weidman vs. Gastelum,W
+0,0,0,0,"July 16, 2017",5,7,80,0,0,4,6,0,1,1,"Glasgow, Scotland, United Kingdom",KO/TKO,Gunnar Nelson,0,Leon Roberts,0,1,7,5,7,5,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,L
+0,0,0,0,"July 16, 2017",4,9,80,3,3,7,12,1,0,0,"Glasgow, Scotland, United Kingdom",KO/TKO,Santiago Ponzinibbio,0,Leon Roberts,0,1,12,7,12,7,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,W
+18,37,2,4,"July 16, 2017",61,172,81,0,0,19,105,0,26,34,"Glasgow, Scotland, United Kingdom",Decision,Joanne Calderwood,0,Marc Goddard,1,3,176,63,181,68,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,L
+24,36,4,5,"July 16, 2017",48,103,81,2,3,21,51,0,9,24,"Glasgow, Scotland, United Kingdom",Decision,Cynthia Calvillo,2,Marc Goddard,0,3,111,54,119,62,2,2,5,UFC Fight Night: Nelson vs. Ponzinibbio,W
+2,2,3,5,"July 16, 2017",2,4,82,0,0,2,6,0,1,1,"Glasgow, Scotland, United Kingdom",KO/TKO,Stevie Ray,0,Grant Waterman,0,1,9,5,15,11,0,0,1,UFC Fight Night: Nelson vs. Ponzinibbio,L
+7,9,7,10,"July 16, 2017",4,7,82,12,18,14,24,1,2,2,"Glasgow, Scotland, United Kingdom",KO/TKO,Paul Felder,1,Grant Waterman,0,1,35,23,41,28,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,W
+11,29,2,3,"July 16, 2017",73,214,83,0,0,55,178,0,9,10,"Glasgow, Scotland, United Kingdom",Decision,Jack Marshman,0,Rich Mitchell,0,3,217,75,225,83,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,W
+21,32,15,18,"July 16, 2017",68,171,83,0,0,58,152,0,4,5,"Glasgow, Scotland, United Kingdom",Decision,Ryan Janes,0,Rich Mitchell,0,3,189,83,227,119,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,L
+1,4,0,0,"July 16, 2017",13,42,84,2,5,14,43,1,0,0,"Glasgow, Scotland, United Kingdom",KO/TKO,Khalil Rountree Jr.,0,Leon Roberts,0,1,47,15,47,15,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,W
+3,4,0,0,"July 16, 2017",17,29,84,0,0,1,6,0,13,19,"Glasgow, Scotland, United Kingdom",KO/TKO,Paul Craig,0,Leon Roberts,0,1,29,17,29,17,0,0,1,UFC Fight Night: Nelson vs. Ponzinibbio,L
+18,25,6,10,"July 16, 2017",30,104,85,0,0,15,85,0,3,4,"Glasgow, Scotland, United Kingdom",Decision,James Mulheron,0,Marc Goddard,0,3,114,36,136,56,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,L
+7,11,2,3,"July 16, 2017",40,77,85,10,11,40,73,0,5,7,"Glasgow, Scotland, United Kingdom",Decision,Justin Willis,2,Marc Goddard,0,3,91,52,114,72,0,3,4,UFC Fight Night: Nelson vs. Ponzinibbio,W
+7,14,5,8,"July 16, 2017",18,54,86,1,3,14,46,1,3,5,"Glasgow, Scotland, United Kingdom",KO/TKO,Danny Roberts,0,Rich Mitchell,0,2,65,24,71,29,0,0,1,UFC Fight Night: Nelson vs. Ponzinibbio,W
+5,12,7,10,"July 16, 2017",18,53,86,0,0,15,45,0,5,6,"Glasgow, Scotland, United Kingdom",KO/TKO,Bobby Nash,1,Rich Mitchell,0,2,63,25,91,46,0,2,5,UFC Fight Night: Nelson vs. Ponzinibbio,L
+38,54,35,44,"July 16, 2017",83,182,87,1,1,57,145,1,24,28,"Glasgow, Scotland, United Kingdom",Submission,Alexandre Pantoja,2,Grant Waterman,0,3,227,119,239,131,1,1,1,UFC Fight Night: Nelson vs. Ponzinibbio,W
+7,9,12,19,"July 16, 2017",68,160,87,2,4,72,170,0,3,4,"Glasgow, Scotland, United Kingdom",Submission,Neil Seery,0,Grant Waterman,0,3,183,82,192,90,0,0,2,UFC Fight Night: Nelson vs. Ponzinibbio,L
+1,2,0,3,"July 16, 2017",3,9,88,0,0,2,9,0,0,1,"Glasgow, Scotland, United Kingdom",KO/TKO,Charlie Ward,0,Marc Goddard,0,1,12,3,13,4,0,0,1,UFC Fight Night: Nelson vs. Ponzinibbio,L
+2,4,0,0,"July 16, 2017",8,21,88,2,4,6,18,0,2,3,"Glasgow, Scotland, United Kingdom",KO/TKO,Galore Bofando,0,Marc Goddard,0,1,25,10,25,10,0,1,1,UFC Fight Night: Nelson vs. Ponzinibbio,W
+18,29,6,8,"July 16, 2017",49,118,89,38,48,69,139,1,6,6,"Glasgow, Scotland, United Kingdom",Decision,Danny Henry,8,Grant Waterman,0,3,174,93,243,153,2,1,3,UFC Fight Night: Nelson vs. Ponzinibbio,W
+8,8,12,18,"July 16, 2017",50,102,89,7,9,44,99,0,17,22,"Glasgow, Scotland, United Kingdom",Decision,Daniel Teymur,0,Grant Waterman,0,3,129,69,139,78,0,0,2,UFC Fight Night: Nelson vs. Ponzinibbio,L
+2,4,0,0,"July 16, 2017",19,54,90,37,50,52,98,0,2,2,"Glasgow, Scotland, United Kingdom",Decision,Brett Johns,2,Leon Roberts,0,3,104,56,231,172,1,3,5,UFC Fight Night: Nelson vs. Ponzinibbio,W
+2,2,0,0,"July 16, 2017",23,109,90,5,6,20,107,0,6,6,"Glasgow, Scotland, United Kingdom",Decision,Albert Morales,0,Leon Roberts,0,3,115,28,157,63,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,L
+20,26,54,75,"July 16, 2017",46,115,91,1,2,74,157,0,7,9,"Glasgow, Scotland, United Kingdom",KO/TKO,Leslie Smith,0,Rich Mitchell,0,2,192,101,207,114,0,0,0,UFC Fight Night: Nelson vs. Ponzinibbio,W
+14,19,13,15,"July 16, 2017",55,91,91,0,0,43,76,0,11,11,"Glasgow, Scotland, United Kingdom",KO/TKO,Amanda Lemos,1,Rich Mitchell,0,2,106,68,108,70,0,1,1,UFC Fight Night: Nelson vs. Ponzinibbio,L
+12,18,3,3,"July 08, 2017",41,100,92,4,4,20,68,0,16,21,"Las Vegas, Nevada, USA",Decision,Yoel Romero,0,John McCarthy,0,5,107,48,175,114,0,4,18,UFC 213: Romero vs. Whittaker,L
+23,52,7,12,"July 08, 2017",59,195,92,8,14,46,163,0,5,6,"Las Vegas, Nevada, USA",Decision,Robert Whittaker,1,John McCarthy,0,5,221,74,244,94,0,0,0,UFC 213: Romero vs. Whittaker,W
+9,17,5,11,"July 08, 2017",37,94,93,7,10,28,84,1,12,14,"Las Vegas, Nevada, USA",Decision,Fabricio Werdum,1,Herb Dean,0,3,115,49,176,107,0,1,3,UFC 213: Romero vs. Whittaker,L
+5,5,3,3,"July 08, 2017",18,35,93,0,0,15,32,0,1,1,"Las Vegas, Nevada, USA",Decision,Alistair Overeem,0,Herb Dean,0,3,38,21,46,29,0,0,0,UFC 213: Romero vs. Whittaker,W
+17,20,15,19,"July 08, 2017",36,113,94,0,0,29,105,0,5,7,"Las Vegas, Nevada, USA",Decision,Daniel Omielanczuk,0,Marc Goddard,0,3,132,51,149,68,0,0,1,UFC 213: Romero vs. Whittaker,L
+23,25,20,26,"July 08, 2017",39,129,94,13,13,41,135,0,8,8,"Las Vegas, Nevada, USA",Decision,Curtis Blaydes,0,Marc Goddard,0,3,168,72,194,94,0,0,13,UFC 213: Romero vs. Whittaker,W
+27,32,8,9,"July 08, 2017",63,99,95,9,13,49,85,0,4,4,"Las Vegas, Nevada, USA",Decision,Anthony Pettis,5,Herb Dean,0,3,121,80,150,107,0,1,2,UFC 213: Romero vs. Whittaker,W
+15,23,11,15,"July 08, 2017",33,84,95,4,11,13,65,0,20,22,"Las Vegas, Nevada, USA",Decision,Jim Miller,1,Herb Dean,0,3,110,48,113,51,0,1,4,UFC 213: Romero vs. Whittaker,L
+14,18,12,13,"July 08, 2017",54,127,96,4,4,50,120,0,6,6,"Las Vegas, Nevada, USA",Submission,Rob Font,2,Mark Smith,0,2,144,70,154,79,3,2,4,UFC 213: Romero vs. Whittaker,W
+4,9,1,3,"July 08, 2017",27,90,96,0,0,16,68,0,8,16,"Las Vegas, Nevada, USA",Submission,Douglas Silva de Andrade,0,Mark Smith,0,2,93,28,98,32,0,2,2,UFC 213: Romero vs. Whittaker,L
+16,21,10,11,"July 08, 2017",25,59,97,0,1,17,48,1,2,2,"Las Vegas, Nevada, USA",Submission,Travis Browne,1,John McCarthy,0,2,71,35,74,37,0,1,1,UFC 213: Romero vs. Whittaker,L
+18,18,16,18,"July 08, 2017",23,51,97,14,16,35,67,1,0,0,"Las Vegas, Nevada, USA",Submission,Aleksei Oleinik,3,John McCarthy,0,2,85,53,172,132,2,3,4,UFC 213: Romero vs. Whittaker,W
+33,40,5,6,"July 08, 2017",64,164,98,7,9,31,127,1,12,12,"Las Vegas, Nevada, USA",KO/TKO,Chad Laprise,0,Herb Dean,0,3,179,76,181,78,0,1,1,UFC 213: Romero vs. Whittaker,W
+9,11,0,0,"July 08, 2017",47,182,98,0,0,29,160,0,9,11,"Las Vegas, Nevada, USA",KO/TKO,Brian Camozzi,0,Herb Dean,0,3,182,47,183,48,0,0,0,UFC 213: Romero vs. Whittaker,L
+7,7,3,4,"July 08, 2017",18,44,99,39,67,48,102,0,5,6,"Las Vegas, Nevada, USA",KO/TKO,Thiago Santos,2,Marc Goddard,0,2,115,60,121,65,0,0,0,UFC 213: Romero vs. Whittaker,W
+2,5,4,6,"July 08, 2017",7,19,99,4,4,13,24,0,0,0,"Las Vegas, Nevada, USA",KO/TKO,Gerald Meerschaert,1,Marc Goddard,0,2,29,15,29,15,0,3,8,UFC 213: Romero vs. Whittaker,L
+6,7,1,1,"July 08, 2017",35,60,100,0,0,4,26,0,26,28,"Las Vegas, Nevada, USA",Decision,Jordan Mein,0,Mark Smith,1,3,61,36,74,49,1,1,6,UFC 213: Romero vs. Whittaker,L
+13,20,13,18,"July 08, 2017",27,85,100,5,7,30,87,0,2,3,"Las Vegas, Nevada, USA",Decision,Belal Muhammad,3,Mark Smith,0,3,110,45,194,116,0,4,12,UFC 213: Romero vs. Whittaker,W
+14,18,9,19,"July 08, 2017",49,91,101,36,50,74,135,0,6,7,"Las Vegas, Nevada, USA",Decision,Cody Stamann,6,Marc Goddard,0,3,160,94,194,124,0,8,12,UFC 213: Romero vs. Whittaker,W
+12,16,5,13,"July 08, 2017",53,135,101,2,4,41,127,0,7,9,"Las Vegas, Nevada, USA",Decision,Terrion Ware,0,Marc Goddard,0,3,152,60,177,78,0,0,1,UFC 213: Romero vs. Whittaker,L
+6,7,3,3,"July 08, 2017",8,13,102,30,37,34,45,0,1,1,"Las Vegas, Nevada, USA",KO/TKO,Trevin Giles,6,Mark Smith,0,2,53,41,66,54,0,5,5,UFC 213: Romero vs. Whittaker,W
+2,3,0,0,"July 08, 2017",4,23,102,1,1,1,19,0,2,2,"Las Vegas, Nevada, USA",KO/TKO,James Bochnovic,0,Mark Smith,0,2,24,5,35,15,0,0,1,UFC 213: Romero vs. Whittaker,L
+40,48,12,21,"July 07, 2017",78,176,103,1,3,47,146,0,4,6,"Las Vegas, Nevada, USA",KO/TKO,Michael Johnson,0,John McCarthy,0,2,200,91,200,91,0,1,3,The Ultimate Fighter 25 Finale,L
+6,8,27,36,"July 07, 2017",77,138,103,0,0,62,124,0,36,42,"Las Vegas, Nevada, USA",KO/TKO,Justin Gaethje,0,John McCarthy,0,2,174,104,174,104,0,0,0,The Ultimate Fighter 25 Finale,W
+0,0,0,0,"July 07, 2017",1,1,104,3,3,4,4,1,0,0,"Las Vegas, Nevada, USA",Submission,Dhiego Lima,0,Jason Herzog,0,2,4,4,6,6,0,0,0,The Ultimate Fighter 25 Finale,L
+0,0,0,0,"July 07, 2017",1,1,104,20,23,21,24,0,0,0,"Las Vegas, Nevada, USA",Submission,Jesse Taylor,5,Jason Herzog,1,2,24,21,59,50,2,2,3,The Ultimate Fighter 25 Finale,W
+16,23,8,10,"July 07, 2017",24,65,105,2,2,12,46,0,6,8,"Las Vegas, Nevada, USA",Decision,Marc Diakiese,1,Marc Goddard,1,3,77,34,107,63,0,2,6,The Ultimate Fighter 25 Finale,L
+10,14,9,14,"July 07, 2017",25,53,105,5,12,10,43,0,19,22,"Las Vegas, Nevada, USA",Decision,Drakkar Klose,1,Marc Goddard,0,3,79,39,136,84,0,3,7,The Ultimate Fighter 25 Finale,W
+5,6,18,23,"July 07, 2017",57,118,106,9,9,75,140,0,4,4,"Las Vegas, Nevada, USA",KO/TKO,Jared Cannonier,1,John McCarthy,0,3,150,84,152,86,0,1,1,The Ultimate Fighter 25 Finale,W
+6,19,3,8,"July 07, 2017",25,152,106,0,0,22,141,0,0,0,"Las Vegas, Nevada, USA",KO/TKO,Nick Roehrick,0,John McCarthy,0,3,160,28,161,29,0,0,0,The Ultimate Fighter 25 Finale,L
+8,9,14,21,"July 07, 2017",17,50,107,0,0,18,56,0,5,6,"Las Vegas, Nevada, USA",Decision,Brad Tavares,2,Marc Goddard,1,3,71,31,74,34,0,1,3,The Ultimate Fighter 25 Finale,W
+6,20,13,20,"July 07, 2017",20,61,107,1,1,18,51,0,10,11,"Las Vegas, Nevada, USA",Decision,Elias Theodorou,0,Marc Goddard,0,3,82,34,113,64,0,3,7,The Ultimate Fighter 25 Finale,L
+3,6,1,5,"July 07, 2017",35,124,108,6,10,39,131,0,0,2,"Las Vegas, Nevada, USA",Decision,Jordan Johnson,0,John McCarthy,0,3,139,42,145,47,0,2,6,The Ultimate Fighter 25 Finale,W
+14,17,2,3,"July 07, 2017",51,100,108,0,0,28,74,0,11,12,"Las Vegas, Nevada, USA",Decision,Marcel Fortuna,0,John McCarthy,0,3,103,53,112,62,0,0,3,The Ultimate Fighter 25 Finale,L
+5,9,3,3,"July 07, 2017",41,93,109,3,4,20,67,0,22,24,"Las Vegas, Nevada, USA",Decision,Angela Hill,0,Jason Herzog,0,3,100,47,118,65,0,1,1,The Ultimate Fighter 25 Finale,W
+9,21,1,3,"July 07, 2017",25,105,109,0,0,11,81,0,6,6,"Las Vegas, Nevada, USA",Decision,Ashley Yoder,1,Jason Herzog,0,3,108,26,137,54,0,3,6,The Ultimate Fighter 25 Finale,L
+3,4,1,3,"July 07, 2017",105,185,110,0,0,102,183,0,1,1,"Las Vegas, Nevada, USA",Decision,James Krause,0,Chris Tognoni,0,3,188,106,201,113,0,0,0,The Ultimate Fighter 25 Finale,W
+17,30,2,4,"July 07, 2017",51,196,110,0,0,24,158,0,12,12,"Las Vegas, Nevada, USA",Decision,Tom Gallicchio,1,Chris Tognoni,0,3,200,53,204,57,0,1,9,The Ultimate Fighter 25 Finale,L
+3,3,1,1,"July 07, 2017",13,25,111,10,15,21,38,0,0,0,"Las Vegas, Nevada, USA",Decision,Ed Herman,3,Marc Goddard,1,3,41,24,68,48,3,1,1,The Ultimate Fighter 25 Finale,L
+5,6,7,8,"July 07, 2017",15,19,111,32,45,38,55,0,11,11,"Las Vegas, Nevada, USA",Decision,CB Dollaway,5,Marc Goddard,1,3,72,54,134,111,1,6,6,The Ultimate Fighter 25 Finale,W
+4,5,6,7,"July 07, 2017",8,14,112,1,2,5,11,0,6,7,"Las Vegas, Nevada, USA",Submission,Tecia Torres,1,Chris Tognoni,0,2,23,15,34,26,1,0,7,The Ultimate Fighter 25 Finale,W
+2,4,3,4,"July 07, 2017",3,25,112,0,2,1,23,0,3,4,"Las Vegas, Nevada, USA",Submission,Juliana Lima,0,Chris Tognoni,0,2,31,6,39,14,0,1,3,The Ultimate Fighter 25 Finale,L
+8,9,3,4,"July 07, 2017",1,3,113,12,17,8,15,0,0,0,"Las Vegas, Nevada, USA",Decision,Gray Maynard,6,Jason Herzog,0,3,24,16,46,37,2,11,11,The Ultimate Fighter 25 Finale,W
+5,6,3,4,"July 07, 2017",4,8,113,1,1,3,7,0,0,0,"Las Vegas, Nevada, USA",Decision,Teruto Ishihara,0,Jason Herzog,0,3,13,8,19,14,0,0,0,The Ultimate Fighter 25 Finale,L
+1,1,0,0,"June 25, 2017",2,7,114,2,2,3,8,0,0,0,"Oklahoma City, Oklahoma, USA",Submission,Michael Chiesa,0,Mario Yamasaki,0,1,9,4,14,9,0,0,0,UFC Fight Night: Chiesa vs. Lee,L
+1,1,0,0,"June 25, 2017",3,4,114,19,26,19,27,0,2,2,"Oklahoma City, Oklahoma, USA",Submission,Kevin Lee,1,Mario Yamasaki,0,1,30,22,45,37,1,1,1,UFC Fight Night: Chiesa vs. Lee,W
+16,20,10,13,"June 25, 2017",30,54,115,1,1,19,41,0,6,7,"Oklahoma City, Oklahoma, USA",KO/TKO,Tim Boetsch,0,Kevin MacDonald,0,2,68,41,69,42,0,0,0,UFC Fight Night: Chiesa vs. Lee,W
+2,2,0,1,"June 25, 2017",10,44,115,0,0,2,36,0,6,7,"Oklahoma City, Oklahoma, USA",KO/TKO,Johny Hendricks,0,Kevin MacDonald,0,2,45,10,45,10,0,0,0,UFC Fight Night: Chiesa vs. Lee,L
+7,7,1,2,"June 25, 2017",24,63,116,22,28,40,86,0,0,0,"Oklahoma City, Oklahoma, USA",Decision,Felice Herrig,15,Keith Peterson,0,3,93,47,182,131,1,2,5,UFC Fight Night: Chiesa vs. Lee,W
+8,10,5,6,"June 25, 2017",28,58,116,7,8,28,57,0,4,5,"Oklahoma City, Oklahoma, USA",Decision,Justine Kish,2,Keith Peterson,1,3,72,40,84,50,0,0,2,UFC Fight Night: Chiesa vs. Lee,L
+0,0,0,0,"June 25, 2017",1,3,117,0,0,1,3,0,0,0,"Oklahoma City, Oklahoma, USA",KO/TKO,Joachim Christensen,0,Gary Ritter,0,1,3,1,3,1,0,0,1,UFC Fight Night: Chiesa vs. Lee,L
+2,2,0,0,"June 25, 2017",7,10,117,6,6,10,13,1,1,1,"Oklahoma City, Oklahoma, USA",KO/TKO,Dominick Reyes,0,Gary Ritter,0,1,16,13,16,13,0,0,0,UFC Fight Night: Chiesa vs. Lee,W
+26,38,1,1,"June 25, 2017",63,173,118,0,0,31,129,0,7,7,"Oklahoma City, Oklahoma, USA",Decision,Tim Means,0,Mario Yamasaki,0,3,174,64,186,76,0,0,0,UFC Fight Night: Chiesa vs. Lee,W
+5,11,1,3,"June 25, 2017",31,148,118,0,0,26,139,0,1,1,"Oklahoma City, Oklahoma, USA",Decision,Alex Garcia,0,Mario Yamasaki,0,3,151,32,151,32,0,0,5,UFC Fight Night: Chiesa vs. Lee,L
+10,12,4,4,"June 25, 2017",49,95,119,4,8,47,95,1,0,0,"Oklahoma City, Oklahoma, USA",Decision,BJ Penn,1,Kevin MacDonald,0,3,107,57,116,65,0,0,0,UFC Fight Night: Chiesa vs. Lee,L
+9,29,0,5,"June 25, 2017",103,275,119,0,0,59,199,0,35,52,"Oklahoma City, Oklahoma, USA",Decision,Dennis Siver,0,Kevin MacDonald,0,3,280,103,300,120,0,0,1,UFC Fight Night: Chiesa vs. Lee,W
+4,6,1,3,"June 25, 2017",4,30,120,33,54,33,79,0,1,2,"Oklahoma City, Oklahoma, USA",Decision,Clay Guida,4,Keith Peterson,0,3,87,38,207,133,0,2,8,UFC Fight Night: Chiesa vs. Lee,W
+2,2,3,3,"June 25, 2017",10,36,120,0,0,10,36,0,1,1,"Oklahoma City, Oklahoma, USA",Decision,Erik Koch,0,Keith Peterson,0,3,39,13,44,17,0,0,0,UFC Fight Night: Chiesa vs. Lee,L
+13,28,5,5,"June 25, 2017",46,156,121,0,0,13,92,0,25,41,"Oklahoma City, Oklahoma, USA",Decision,Vitor Miranda,0,Gary Ritter,0,3,161,51,186,74,0,0,1,UFC Fight Night: Chiesa vs. Lee,L
+6,9,2,2,"June 25, 2017",66,158,121,1,1,50,138,0,13,14,"Oklahoma City, Oklahoma, USA",Decision,Marvin Vettori,3,Gary Ritter,0,3,161,69,176,81,0,3,7,UFC Fight Night: Chiesa vs. Lee,W
+4,6,8,10,"June 25, 2017",19,63,122,13,22,32,81,0,4,8,"Oklahoma City, Oklahoma, USA",Decision,Carla Esparza,0,Mario Yamasaki,0,3,95,40,204,142,0,6,14,UFC Fight Night: Chiesa vs. Lee,W
+3,5,0,3,"June 25, 2017",32,110,122,6,6,35,114,0,0,0,"Oklahoma City, Oklahoma, USA",Decision,Maryna Moroz,0,Mario Yamasaki,0,3,119,38,134,48,1,0,0,UFC Fight Night: Chiesa vs. Lee,L
+8,9,4,5,"June 25, 2017",27,61,123,12,13,15,42,0,20,28,"Oklahoma City, Oklahoma, USA",Decision,Devin Powell,1,Kevin MacDonald,1,3,79,43,137,97,2,0,3,UFC Fight Night: Chiesa vs. Lee,L
+2,2,8,10,"June 25, 2017",13,43,123,16,23,31,70,0,4,4,"Oklahoma City, Oklahoma, USA",Decision,Darrell Horcher,3,Kevin MacDonald,1,3,76,37,98,56,2,0,0,UFC Fight Night: Chiesa vs. Lee,W
+5,7,4,5,"June 25, 2017",27,65,124,36,51,54,102,0,8,12,"Oklahoma City, Oklahoma, USA",KO/TKO,Jared Gordon,5,Keith Peterson,0,2,121,67,182,115,0,4,6,UFC Fight Night: Chiesa vs. Lee,W
+4,16,1,2,"June 25, 2017",15,76,124,0,0,6,55,0,6,7,"Oklahoma City, Oklahoma, USA",KO/TKO,Michel Quinones,0,Keith Peterson,0,2,78,16,79,16,0,0,0,UFC Fight Night: Chiesa vs. Lee,L
+4,5,1,1,"June 25, 2017",79,223,125,2,2,70,211,0,8,10,"Oklahoma City, Oklahoma, USA",Decision,Tony Martin,0,Gary Ritter,0,3,226,82,227,83,1,1,2,UFC Fight Night: Chiesa vs. Lee,W
+19,29,1,2,"June 25, 2017",91,252,125,0,0,51,195,0,22,30,"Oklahoma City, Oklahoma, USA",Decision,Johnny Case,0,Gary Ritter,0,3,254,92,254,92,0,0,1,UFC Fight Night: Chiesa vs. Lee,L
+1,2,0,0,"June 25, 2017",4,12,126,0,0,1,8,0,2,2,"Oklahoma City, Oklahoma, USA",KO/TKO,Josh Stansbury,0,Mario Yamasaki,0,1,12,4,13,5,0,0,1,UFC Fight Night: Chiesa vs. Lee,L
+1,1,1,3,"June 25, 2017",8,9,126,8,13,13,21,1,3,3,"Oklahoma City, Oklahoma, USA",KO/TKO,Jeremy Kimball,0,Mario Yamasaki,0,1,25,17,29,21,0,0,0,UFC Fight Night: Chiesa vs. Lee,W
+8,12,1,1,"June 17, 2017",23,50,127,1,2,10,33,1,7,8,"Kallang, Singapore",KO/TKO,Holly Holm,0,Marc Goddard,0,3,53,25,54,25,0,0,0,UFC Fight Night: Holm vs. Correia,W
+6,9,0,0,"June 17, 2017",15,65,127,0,0,4,44,0,5,12,"Kallang, Singapore",KO/TKO,Bethe Correia,0,Marc Goddard,0,3,65,15,71,21,0,0,0,UFC Fight Night: Holm vs. Correia,L
+7,10,10,14,"June 17, 2017",17,40,128,1,2,18,42,0,3,4,"Kallang, Singapore",Decision,Andrei Arlovski,0,John Sharp,0,3,56,28,74,41,0,0,2,UFC Fight Night: Holm vs. Correia,L
+3,7,4,5,"June 17, 2017",5,22,128,42,65,46,83,0,2,2,"Kallang, Singapore",Decision,Marcin Tybura,6,John Sharp,0,3,92,51,188,127,0,2,3,UFC Fight Night: Holm vs. Correia,W
+2,2,2,2,"June 17, 2017",15,50,129,2,2,16,50,0,1,2,"Kallang, Singapore",Decision,Dong Hyun Kim,0,Steve Perceval,0,3,54,19,102,64,0,2,4,UFC Fight Night: Holm vs. Correia,L
+12,23,18,34,"June 17, 2017",27,69,129,2,2,18,59,0,17,23,"Kallang, Singapore",Decision,Colby Covington,1,Steve Perceval,0,3,105,47,154,92,0,8,15,UFC Fight Night: Holm vs. Correia,W
+14,15,16,20,"June 17, 2017",44,119,130,0,0,34,112,0,12,12,"Kallang, Singapore",Decision,Tarec Saffiedine,1,Greg Kleynjans,0,3,139,60,151,71,0,1,1,UFC Fight Night: Holm vs. Correia,L
+37,49,20,26,"June 17, 2017",56,125,130,5,7,35,99,0,9,10,"Kallang, Singapore",Decision,Rafael Dos Anjos,0,Greg Kleynjans,0,3,158,81,169,91,1,1,5,UFC Fight Night: Holm vs. Correia,W
+0,1,0,0,"June 17, 2017",0,5,131,0,0,0,4,0,0,0,"Kallang, Singapore",Submission,Takanori Gomi,0,Marc Goddard,0,1,5,0,5,0,0,0,0,UFC Fight Night: Holm vs. Correia,L
+1,1,1,2,"June 17, 2017",3,7,131,3,4,6,12,0,0,0,"Kallang, Singapore",Submission,Jon Tuck,1,Marc Goddard,0,1,13,7,13,7,1,0,0,UFC Fight Night: Holm vs. Correia,W
+1,3,0,0,"June 17, 2017",2,14,132,0,0,1,11,0,0,0,"Kallang, Singapore",KO/TKO,Cyril Asker,0,John Sharp,0,1,14,2,14,2,0,0,0,UFC Fight Night: Holm vs. Correia,L
+2,4,0,0,"June 17, 2017",7,20,132,14,21,17,35,1,2,2,"Kallang, Singapore",KO/TKO,Walt Harris,0,John Sharp,0,1,41,21,43,23,0,0,0,UFC Fight Night: Holm vs. Correia,W
+10,14,5,11,"June 17, 2017",42,76,133,4,6,38,75,1,3,4,"Kallang, Singapore",TKO,Alex Caceres,1,Neil Swailes,0,2,93,51,99,56,1,0,0,UFC Fight Night: Holm vs. Correia,W
+5,12,1,5,"June 17, 2017",19,60,133,0,0,9,44,0,6,9,"Kallang, Singapore",TKO,Rolando Dy,1,Neil Swailes,0,2,65,20,66,21,0,1,4,UFC Fight Night: Holm vs. Correia,L
+5,7,2,3,"June 17, 2017",15,33,134,20,26,28,51,1,4,4,"Kallang, Singapore",Submission,Justin Scoggins,1,Marc Goddard,0,2,62,37,104,74,0,1,2,UFC Fight Night: Holm vs. Correia,L
+3,5,3,5,"June 17, 2017",17,32,134,1,4,11,27,0,7,9,"Kallang, Singapore",Submission,Ulka Sasaki,2,Marc Goddard,1,2,41,21,45,25,1,2,3,UFC Fight Night: Holm vs. Correia,W
+15,22,2,3,"June 17, 2017",92,173,135,0,0,54,120,0,25,34,"Kallang, Singapore",Decision,Li Jingliang,0,John Sharp,0,3,176,94,177,95,0,2,7,UFC Fight Night: Holm vs. Correia,W
+3,6,3,4,"June 17, 2017",32,116,135,0,0,32,114,0,0,0,"Kallang, Singapore",Decision,Frank Camacho,1,John Sharp,0,3,120,35,143,56,0,1,1,UFC Fight Night: Holm vs. Correia,L
+1,2,0,0,"June 17, 2017",10,23,136,0,1,5,16,0,4,6,"Kallang, Singapore",KO/TKO,Kwan Ho Kwak,0,Steve Perceval,0,1,24,10,24,10,0,1,1,UFC Fight Night: Holm vs. Correia,L
+1,5,1,1,"June 17, 2017",12,37,136,4,8,13,37,1,3,4,"Kallang, Singapore",KO/TKO,Russell Doane,0,Steve Perceval,0,1,46,17,46,17,0,0,0,UFC Fight Night: Holm vs. Correia,W
+2,3,7,8,"June 17, 2017",35,75,137,20,33,47,95,0,13,18,"Kallang, Singapore",Decision,Naoki Inoue,5,Neil Swailes,1,3,116,62,228,151,5,0,2,UFC Fight Night: Holm vs. Correia,W
+1,3,7,10,"June 17, 2017",21,59,137,2,5,19,53,0,10,18,"Kallang, Singapore",Decision,Carls John De Tomas,1,Neil Swailes,1,3,74,30,102,53,0,2,4,UFC Fight Night: Holm vs. Correia,L
+9,14,7,14,"June 17, 2017",53,144,138,0,4,42,139,0,9,9,"Kallang, Singapore",Decision,Ji Yeon Kim,0,Greg Kleynjans,0,3,162,60,168,65,0,0,1,UFC Fight Night: Holm vs. Correia,L
+6,14,9,12,"June 17, 2017",44,157,138,0,0,42,146,0,5,9,"Kallang, Singapore",Decision,Lucie Pudilova,1,Greg Kleynjans,0,3,169,53,193,69,2,0,0,UFC Fight Night: Holm vs. Correia,W
+14,19,1,5,"June 10, 2017",50,134,139,0,0,34,112,0,3,8,"Auckland, New Zealand",KO/TKO,Derrick Lewis,0,Marc Goddard,0,4,139,51,140,52,0,0,3,UFC Fight Night: Lewis vs. Hunt,L
+12,24,7,7,"June 10, 2017",52,118,139,0,0,37,91,0,10,10,"Auckland, New Zealand",KO/TKO,Mark Hunt,0,Marc Goddard,0,4,125,59,125,59,0,0,0,UFC Fight Night: Lewis vs. Hunt,W
+0,0,0,0,"June 10, 2017",4,13,140,4,4,6,13,1,2,4,"Auckland, New Zealand",KO/TKO,Derek Brunson,0,John Sharp,0,1,17,8,17,8,0,0,0,UFC Fight Night: Lewis vs. Hunt,W
+0,0,0,0,"June 10, 2017",1,4,140,0,0,0,3,0,1,1,"Auckland, New Zealand",KO/TKO,Daniel Kelly,0,John Sharp,0,1,4,1,4,1,0,0,0,UFC Fight Night: Lewis vs. Hunt,L
+6,8,0,0,"June 10, 2017",68,140,141,1,1,40,108,1,23,25,"Auckland, New Zealand",KO/TKO,Dan Hooker,0,Neil Swailes,0,2,141,69,146,74,0,0,1,UFC Fight Night: Lewis vs. Hunt,W
+13,18,2,2,"June 10, 2017",36,86,141,0,0,15,59,0,10,11,"Auckland, New Zealand",KO/TKO,Ross Pearson,0,Neil Swailes,0,2,88,38,88,38,0,0,0,UFC Fight Night: Lewis vs. Hunt,L
+0,0,0,0,"June 10, 2017",4,6,142,11,12,15,18,1,0,0,"Auckland, New Zealand",KO/TKO,Ion Cutelaba,0,Mark Craig,0,1,18,15,18,15,0,0,0,UFC Fight Night: Lewis vs. Hunt,W
+0,0,0,0,"June 10, 2017",1,2,142,0,0,1,2,0,0,0,"Auckland, New Zealand",KO/TKO,Henrique da Silva,0,Mark Craig,0,1,2,1,2,1,0,0,0,UFC Fight Night: Lewis vs. Hunt,L
+0,0,0,0,"June 10, 2017",1,4,143,0,0,0,2,0,1,2,"Auckland, New Zealand",Submission,Tim Elliott,0,Marc Goddard,0,1,4,1,4,1,0,0,2,UFC Fight Night: Lewis vs. Hunt,L
+0,0,1,1,"June 10, 2017",2,6,143,0,0,3,7,0,0,0,"Auckland, New Zealand",Submission,Ben Nguyen,1,Marc Goddard,0,1,7,3,12,8,1,1,1,UFC Fight Night: Lewis vs. Hunt,W
+9,13,18,20,"June 10, 2017",46,93,144,23,26,55,97,1,23,29,"Auckland, New Zealand",Decision,Alexander Volkanovski,1,John Sharp,0,3,139,87,145,93,0,4,7,UFC Fight Night: Lewis vs. Hunt,W
+2,5,2,5,"June 10, 2017",42,142,144,2,2,39,139,0,5,5,"Auckland, New Zealand",Decision,Mizuto Hirota,0,John Sharp,0,3,149,46,155,51,0,0,5,UFC Fight Night: Lewis vs. Hunt,L
+1,1,3,3,"June 10, 2017",18,53,145,0,0,16,51,0,4,4,"Auckland, New Zealand",KO/TKO,Damien Brown,0,Mark Craig,0,1,56,21,56,21,0,0,0,UFC Fight Night: Lewis vs. Hunt,L
+4,4,2,2,"June 10, 2017",14,31,145,3,5,13,29,1,2,5,"Auckland, New Zealand",KO/TKO,Vinc Pichel,0,Mark Craig,0,1,38,19,38,19,0,0,0,UFC Fight Night: Lewis vs. Hunt,W
+9,11,9,14,"June 10, 2017",31,69,146,0,0,27,66,0,4,6,"Auckland, New Zealand",Decision,Luke Jumeau,0,Neil Swailes,0,3,83,40,103,59,0,0,0,UFC Fight Night: Lewis vs. Hunt,W
+15,21,12,16,"June 10, 2017",23,57,146,9,10,25,56,0,4,6,"Auckland, New Zealand",Decision,Dominique Steele,1,Neil Swailes,0,3,83,44,103,63,0,1,11,UFC Fight Night: Lewis vs. Hunt,L
+7,11,5,9,"June 10, 2017",15,34,147,36,44,46,73,0,3,3,"Auckland, New Zealand",Decision,John Moraga,10,Marc Goddard,0,3,87,56,107,73,4,2,2,UFC Fight Night: Lewis vs. Hunt,W
+2,2,0,0,"June 10, 2017",10,21,147,2,2,2,11,0,8,10,"Auckland, New Zealand",Decision,Ashkan Mokhtarian,0,Marc Goddard,0,3,23,12,29,15,0,1,3,UFC Fight Night: Lewis vs. Hunt,L
+2,2,3,3,"June 10, 2017",17,38,148,5,6,11,28,0,12,17,"Auckland, New Zealand",Decision,Kiichi Kunimoto,2,John Sharp,1,3,47,25,116,84,0,2,5,UFC Fight Night: Lewis vs. Hunt,L
+7,13,2,3,"June 10, 2017",32,70,148,3,3,20,53,0,10,10,"Auckland, New Zealand",Decision,Zak Ottow,1,John Sharp,1,3,76,37,145,98,0,2,3,UFC Fight Night: Lewis vs. Hunt,W
+7,13,7,9,"June 10, 2017",91,236,149,0,0,71,209,0,20,23,"Auckland, New Zealand",Decision,JJ Aldrich,0,Neil Swailes,0,3,245,98,245,98,0,0,0,UFC Fight Night: Lewis vs. Hunt,W
+15,30,2,4,"June 10, 2017",88,244,149,2,2,47,183,0,30,37,"Auckland, New Zealand",Decision,Chanmi Jeon,0,Neil Swailes,0,3,250,92,252,93,0,0,0,UFC Fight Night: Lewis vs. Hunt,L
+13,19,2,2,"June 03, 2017",53,111,150,0,0,41,93,0,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Jose Aldo,0,John McCarthy,0,3,113,55,115,56,0,0,0,UFC 212: Aldo vs. Holloway,L
+16,21,2,3,"June 03, 2017",61,149,150,41,55,87,185,1,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Max Holloway,3,John McCarthy,0,3,207,104,234,128,0,0,0,UFC 212: Aldo vs. Holloway,W
+2,3,2,2,"June 03, 2017",6,26,151,0,0,6,24,0,0,1,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Claudia Gadelha,2,Mario Yamasaki,0,1,28,8,28,8,1,1,2,UFC 212: Aldo vs. Holloway,W
+0,1,0,1,"June 03, 2017",9,36,151,0,0,6,33,0,3,3,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Karolina Kowalkiewicz,0,Mario Yamasaki,0,1,37,9,40,12,0,0,0,UFC 212: Aldo vs. Holloway,L
+6,8,11,19,"June 03, 2017",25,58,152,1,1,30,69,0,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",Decision,Vitor Belfort,0,Osiris Maia,0,3,78,37,80,38,0,0,0,UFC 212: Aldo vs. Holloway,W
+16,18,5,5,"June 03, 2017",52,108,152,0,0,21,74,0,20,21,"Rio de Janeiro, Rio de Janeiro, Brazil",Decision,Nate Marquardt,0,Osiris Maia,0,3,113,57,124,68,0,1,2,UFC 212: Aldo vs. Holloway,L
+18,22,15,24,"June 03, 2017",15,35,153,13,21,24,57,0,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Paulo Borrachinha,0,John McCarthy,0,2,80,43,88,50,0,0,1,UFC 212: Aldo vs. Holloway,W
+16,23,14,16,"June 03, 2017",19,46,153,0,0,12,34,0,5,5,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Oluwale Bamgbose,1,John McCarthy,0,2,62,33,69,40,0,2,5,UFC 212: Aldo vs. Holloway,L
+10,16,1,1,"June 03, 2017",28,55,154,0,0,12,33,0,7,7,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Erick Silva,0,Eduardo Herdy,0,2,56,29,56,29,0,0,1,UFC 212: Aldo vs. Holloway,L
+5,9,1,4,"June 03, 2017",27,82,154,5,8,26,82,1,2,3,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Yancy Medeiros,0,Eduardo Herdy,0,2,94,33,96,34,0,0,0,UFC 212: Aldo vs. Holloway,W
+4,13,1,2,"June 03, 2017",42,132,155,0,0,21,95,0,18,26,"Rio de Janeiro, Rio de Janeiro, Brazil",Decision,Raphael Assuncao,0,Osiris Maia,0,3,134,43,134,43,0,0,1,UFC 212: Aldo vs. Holloway,W
+14,20,0,1,"June 03, 2017",44,149,155,0,0,15,113,0,15,17,"Rio de Janeiro, Rio de Janeiro, Brazil",Decision,Marlon Moraes,0,Osiris Maia,0,3,150,44,150,44,0,0,2,UFC 212: Aldo vs. Holloway,L
+2,3,0,1,"June 03, 2017",1,7,156,11,15,9,19,0,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Antonio Carlos Junior,5,John McCarthy,0,2,23,12,56,37,2,1,1,UFC 212: Aldo vs. Holloway,W
+0,0,0,0,"June 03, 2017",1,6,156,16,20,17,26,0,0,0,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Eric Spicely,0,John McCarthy,0,2,26,17,49,39,0,1,2,UFC 212: Aldo vs. Holloway,L
+0,1,0,0,"June 03, 2017",16,30,157,0,0,11,23,0,5,6,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Johnny Eduardo,0,Mario Yamasaki,0,1,30,16,30,16,1,0,0,UFC 212: Aldo vs. Holloway,L
+0,0,0,0,"June 03, 2017",4,12,157,39,45,43,57,0,0,0,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Matthew Lopez,0,Mario Yamasaki,0,1,57,43,73,59,0,1,1,UFC 212: Aldo vs. Holloway,W
+4,6,2,2,"June 03, 2017",10,26,158,0,0,8,21,0,0,1,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Iuri Alcantara,0,Eduardo Herdy,0,1,28,12,29,12,0,1,1,UFC 212: Aldo vs. Holloway,L
+2,4,0,1,"June 03, 2017",4,14,158,0,0,1,8,0,1,3,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Brian Kelleher,0,Eduardo Herdy,0,1,15,4,15,4,1,0,0,UFC 212: Aldo vs. Holloway,W
+10,20,6,10,"June 03, 2017",71,190,159,3,8,66,183,0,4,5,"Rio de Janeiro, Rio de Janeiro, Brazil",Decision,Viviane Pereira,0,Mario Yamasaki,0,3,208,80,232,101,0,0,0,UFC 212: Aldo vs. Holloway,W
+28,34,13,16,"June 03, 2017",64,136,159,3,4,36,103,0,16,19,"Rio de Janeiro, Rio de Janeiro, Brazil",Decision,Jamie Moyle,0,Mario Yamasaki,0,3,156,80,161,85,0,0,1,UFC 212: Aldo vs. Holloway,L
+4,8,4,5,"June 03, 2017",88,149,160,3,3,72,128,1,19,21,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Luan Chagas,1,Eduardo Herdy,0,2,157,95,157,95,1,0,2,UFC 212: Aldo vs. Holloway,W
+7,13,1,1,"June 03, 2017",31,159,160,0,0,24,146,0,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",Submission,Jimmy Wallhead,0,Eduardo Herdy,0,2,160,32,161,33,0,0,2,UFC 212: Aldo vs. Holloway,L
+0,2,0,0,"June 03, 2017",9,24,161,7,16,11,33,0,5,5,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Marco Beltran,0,Osiris Maia,0,2,40,16,43,19,0,0,0,UFC 212: Aldo vs. Holloway,L
+6,8,1,1,"June 03, 2017",8,12,161,8,13,10,17,1,1,1,"Rio de Janeiro, Rio de Janeiro, Brazil",KO/TKO,Deiveson Figueiredo,4,Osiris Maia,0,2,26,17,31,21,4,2,3,UFC 212: Aldo vs. Holloway,W
+11,21,7,14,"May 28, 2017",77,198,162,13,16,77,197,2,9,10,"Stockholm, Sweden",KO/TKO,Alexander Gustafsson,2,Marc Goddard,0,5,228,97,239,108,0,1,3,UFC Fight Night: Gustafsson vs. Teixeira,W
+7,10,3,8,"May 28, 2017",39,126,162,0,0,34,123,0,1,1,"Stockholm, Sweden",KO/TKO,Glover Teixeira,0,Marc Goddard,0,5,134,42,155,62,0,1,5,UFC Fight Night: Gustafsson vs. Teixeira,L
+0,0,0,0,"May 28, 2017",3,5,163,2,2,5,7,1,0,0,"Stockholm, Sweden",KO/TKO,Volkan Oezdemir,0,Kevin Sataki,0,1,7,5,7,5,0,0,0,UFC Fight Night: Gustafsson vs. Teixeira,W
+2,3,0,0,"May 28, 2017",9,19,163,0,0,7,16,0,0,0,"Stockholm, Sweden",KO/TKO,Misha Cirkunov,0,Kevin Sataki,0,1,19,9,19,9,0,0,0,UFC Fight Night: Gustafsson vs. Teixeira,L
+1,2,1,2,"May 28, 2017",36,79,164,9,16,40,90,3,5,5,"Stockholm, Sweden",KO/TKO,Peter Sobotta,0,Neil Hall,0,2,97,46,102,50,0,0,0,UFC Fight Night: Gustafsson vs. Teixeira,W
+7,17,0,1,"May 28, 2017",14,62,164,5,5,9,44,0,3,7,"Stockholm, Sweden",KO/TKO,Ben Saunders,0,Neil Hall,0,2,68,19,74,23,0,0,0,UFC Fight Night: Gustafsson vs. Teixeira,L
+3,5,6,8,"May 28, 2017",37,91,165,0,0,37,88,0,3,6,"Stockholm, Sweden",Decision,Abdul Razak Alhassan,0,Bobby Rehman,1,3,99,43,102,44,0,0,0,UFC Fight Night: Gustafsson vs. Teixeira,L
+6,9,2,5,"May 28, 2017",38,126,165,12,22,42,140,0,4,4,"Stockholm, Sweden",Decision,Omari Akhmedov,3,Bobby Rehman,0,3,153,52,213,99,0,6,9,UFC Fight Night: Gustafsson vs. Teixeira,W
+14,24,12,17,"May 28, 2017",22,84,166,0,0,15,68,0,5,9,"Stockholm, Sweden",Decision,Oliver Enkamp,0,Marc Goddard,0,3,101,34,114,44,0,1,5,UFC Fight Night: Gustafsson vs. Teixeira,L
+9,11,6,8,"May 28, 2017",39,67,166,12,13,38,63,0,10,14,"Stockholm, Sweden",Decision,Nordine Taleb,3,Marc Goddard,1,3,88,57,103,71,0,2,2,UFC Fight Night: Gustafsson vs. Teixeira,W
+0,0,0,0,"May 28, 2017",1,2,167,22,27,23,29,0,0,0,"Stockholm, Sweden",KO/TKO,Jack Hermansson,2,Bobby Rehman,0,1,29,23,47,39,0,1,1,UFC Fight Night: Gustafsson vs. Teixeira,W
+1,2,0,0,"May 28, 2017",1,4,167,0,0,0,2,0,0,0,"Stockholm, Sweden",KO/TKO,Alex Nicholson,0,Bobby Rehman,0,1,4,1,6,3,1,0,0,UFC Fight Night: Gustafsson vs. Teixeira,L
+11,24,10,18,"May 28, 2017",53,130,168,2,3,39,107,0,15,20,"Stockholm, Sweden",Decision,Pedro Munhoz,1,Neil Hall,0,3,151,65,158,72,1,3,10,UFC Fight Night: Gustafsson vs. Teixeira,W
+7,19,1,3,"May 28, 2017",43,148,168,0,0,35,130,0,2,2,"Stockholm, Sweden",Decision,Damian Stasiak,0,Neil Hall,0,3,151,44,151,44,0,2,6,UFC Fight Night: Gustafsson vs. Teixeira,L
+14,14,6,10,"May 28, 2017",5,10,169,28,40,22,39,1,3,7,"Stockholm, Sweden",Decision,Trevor Smith,5,Kevin Sataki,0,3,60,39,123,92,0,4,7,UFC Fight Night: Gustafsson vs. Teixeira,W
+3,4,6,7,"May 28, 2017",3,9,169,1,2,6,13,0,1,1,"Stockholm, Sweden",Decision,Chris Camozzi,0,Kevin Sataki,0,3,18,10,48,37,1,0,0,UFC Fight Night: Gustafsson vs. Teixeira,L
+8,9,7,12,"May 28, 2017",17,46,170,2,4,18,53,0,0,0,"Stockholm, Sweden",Decision,Reza Madadi,2,Marc Goddard,0,3,62,26,106,69,0,5,13,UFC Fight Night: Gustafsson vs. Teixeira,L
+10,14,4,11,"May 28, 2017",28,112,170,8,19,30,127,0,0,1,"Stockholm, Sweden",Decision,Joaquim Silva,3,Marc Goddard,0,3,142,40,186,69,1,0,0,UFC Fight Night: Gustafsson vs. Teixeira,W
+5,5,3,3,"May 28, 2017",43,166,171,3,4,41,164,0,3,4,"Stockholm, Sweden",KO/TKO,Nico Musoke,1,Kevin Sataki,0,3,173,49,195,69,0,1,5,UFC Fight Night: Gustafsson vs. Teixeira,L
+3,3,2,4,"May 28, 2017",50,118,171,1,1,37,104,1,13,16,"Stockholm, Sweden",KO/TKO,Bojan Velickovic,0,Kevin Sataki,0,3,123,53,179,107,0,1,4,UFC Fight Night: Gustafsson vs. Teixeira,W
+2,2,1,1,"May 28, 2017",19,55,172,11,13,27,65,1,2,2,"Stockholm, Sweden",Decision,Darren Till,0,Neil Hall,0,3,69,31,72,33,0,2,3,UFC Fight Night: Gustafsson vs. Teixeira,W
+5,5,11,15,"May 28, 2017",13,92,172,4,5,21,105,0,2,2,"Stockholm, Sweden",Decision,Jessin Ayari,0,Neil Hall,0,3,112,28,127,41,1,0,5,UFC Fight Night: Gustafsson vs. Teixeira,L
+1,1,6,8,"May 28, 2017",13,42,173,12,16,30,65,0,0,0,"Stockholm, Sweden",KO/TKO,Marcin Held,11,Bobby Rehman,0,3,66,31,103,62,1,4,4,UFC Fight Night: Gustafsson vs. Teixeira,L
+2,2,1,1,"May 28, 2017",12,28,173,1,1,12,28,1,0,0,"Stockholm, Sweden",KO/TKO,Damir Hadzovic,0,Bobby Rehman,0,3,30,14,35,19,0,0,1,UFC Fight Night: Gustafsson vs. Teixeira,W
+0,2,3,4,"May 13, 2017",15,39,174,8,13,23,50,1,3,4,"Dallas, Texas, USA",KO/TKO,Stipe Miocic,0,Herb Dean,0,1,56,26,56,26,0,0,0,UFC 211: Miocic vs. Dos Santos,W
+3,4,0,0,"May 13, 2017",12,18,174,0,0,4,9,0,5,5,"Dallas, Texas, USA",KO/TKO,Junior Dos Santos,0,Herb Dean,0,1,18,12,18,12,0,0,0,UFC 211: Miocic vs. Dos Santos,L
+49,63,32,45,"May 13, 2017",193,307,175,0,0,101,211,0,75,78,"Dallas, Texas, USA",Decision,Joanna Jedrzejczyk,0,Jacob Montalvo,0,5,352,225,357,230,0,0,0,UFC 211: Miocic vs. Dos Santos,W
+15,35,24,39,"May 13, 2017",58,178,175,1,1,51,163,0,17,20,"Dallas, Texas, USA",Decision,Jessica Andrade,1,Jacob Montalvo,0,5,218,83,230,94,0,2,10,UFC 211: Miocic vs. Dos Santos,L
+0,0,6,8,"May 13, 2017",2,11,176,15,19,22,37,0,1,1,"Dallas, Texas, USA",Decision,Demian Maia,3,Kerry Hatley,1,3,38,23,93,67,0,4,12,UFC 211: Miocic vs. Dos Santos,W
+7,9,6,6,"May 13, 2017",15,29,176,18,28,27,48,0,5,6,"Dallas, Texas, USA",Decision,Jorge Masvidal,0,Kerry Hatley,0,3,63,39,80,55,0,0,0,UFC 211: Miocic vs. Dos Santos,L
+5,5,0,0,"May 13, 2017",3,16,177,69,87,67,98,0,0,0,"Dallas, Texas, USA",TKO,Frankie Edgar,1,Chris Reed,0,2,103,72,130,96,0,1,3,UFC 211: Miocic vs. Dos Santos,W
+1,1,2,4,"May 13, 2017",3,18,177,11,20,14,39,0,1,2,"Dallas, Texas, USA",TKO,Yair Rodriguez,0,Chris Reed,0,2,42,16,57,29,1,0,0,UFC 211: Miocic vs. Dos Santos,L
+11,16,15,20,"May 13, 2017",13,64,178,0,1,17,69,0,0,0,"Dallas, Texas, USA",Decision,Krzysztof Jotko,0,Don Turnage,0,3,85,28,110,49,0,1,2,UFC 211: Miocic vs. Dos Santos,L
+13,21,11,18,"May 13, 2017",23,97,178,5,7,16,90,0,10,11,"Dallas, Texas, USA",Decision,David Branch,0,Don Turnage,0,3,122,39,181,93,0,2,7,UFC 211: Miocic vs. Dos Santos,W
+11,13,5,12,"May 13, 2017",36,112,179,3,3,32,111,0,1,3,"Dallas, Texas, USA",Could,Eddie Alvarez,0,Herb Dean,0,2,127,44,128,44,0,1,4,UFC 211: Miocic vs. Dos Santos,NC
+7,11,12,17,"May 13, 2017",61,127,179,0,0,61,128,0,5,5,"Dallas, Texas, USA",Could,Dustin Poirier,0,Herb Dean,0,2,144,73,150,79,2,0,0,UFC 211: Miocic vs. Dos Santos,NC
+4,7,1,1,"May 13, 2017",28,61,180,0,1,23,54,0,2,2,"Dallas, Texas, USA",KO/TKO,Chas Skelly,0,Jacob Montalvo,1,3,63,29,71,37,0,1,6,UFC 211: Miocic vs. Dos Santos,L
+7,11,6,8,"May 13, 2017",30,72,180,23,29,46,90,1,6,8,"Dallas, Texas, USA",KO/TKO,Jason Knight,1,Jacob Montalvo,2,3,109,59,116,65,3,2,2,UFC 211: Miocic vs. Dos Santos,W
+11,12,10,15,"May 13, 2017",75,190,181,18,26,67,188,1,25,31,"Dallas, Texas, USA",KO/TKO,Chase Sherman,1,Jacob Montalvo,0,2,231,103,235,107,0,0,0,UFC 211: Miocic vs. Dos Santos,W
+3,3,7,10,"May 13, 2017",29,73,181,0,0,32,79,0,1,1,"Dallas, Texas, USA",KO/TKO,Rashad Coulter,0,Jacob Montalvo,0,2,83,36,83,36,0,0,0,UFC 211: Miocic vs. Dos Santos,L
+5,7,1,1,"May 13, 2017",13,43,182,6,8,14,44,1,1,1,"Dallas, Texas, USA",KO/TKO,James Vick,0,Don Turnage,0,1,52,20,52,20,0,0,0,UFC 211: Miocic vs. Dos Santos,W
+6,9,4,4,"May 13, 2017",12,38,182,0,0,3,23,0,7,10,"Dallas, Texas, USA",KO/TKO,Polo Reyes,0,Don Turnage,0,1,42,16,42,16,0,0,0,UFC 211: Miocic vs. Dos Santos,L
+10,15,10,18,"May 13, 2017",24,53,183,23,35,27,70,0,20,21,"Dallas, Texas, USA",Decision,Jessica Aguilar,1,Kerry Hatley,0,3,106,57,154,102,0,4,5,UFC 211: Miocic vs. Dos Santos,L
+9,14,21,36,"May 13, 2017",50,209,183,32,49,70,252,0,24,28,"Dallas, Texas, USA",Decision,Cortney Casey,0,Kerry Hatley,0,3,294,103,368,172,0,0,0,UFC 211: Miocic vs. Dos Santos,W
+12,18,1,3,"May 13, 2017",49,147,184,1,1,33,125,0,6,8,"Dallas, Texas, USA",Decision,Gabriel Benitez,0,Kerry Hatley,1,3,151,51,169,67,0,0,0,UFC 211: Miocic vs. Dos Santos,L
+7,12,7,10,"May 13, 2017",36,131,184,3,7,33,129,0,6,7,"Dallas, Texas, USA",Decision,Enrique Barzola,3,Kerry Hatley,0,3,148,46,212,94,1,9,15,UFC 211: Miocic vs. Dos Santos,W
+0,0,0,0,"May 13, 2017",1,3,185,0,0,1,3,0,0,0,"Dallas, Texas, USA",Submission,Joachim Christensen,0,Don Turnage,0,1,3,1,3,1,0,0,0,UFC 211: Miocic vs. Dos Santos,L
+0,0,0,0,"May 13, 2017",1,3,185,1,1,1,3,0,1,1,"Dallas, Texas, USA",Submission,Gadzhimurad Antigulov,1,Don Turnage,0,1,4,2,12,7,1,1,1,UFC 211: Miocic vs. Dos Santos,W
+47,55,29,38,"April 22, 2017",171,248,186,9,10,114,190,0,48,51,"Nashville, Tennessee, USA",Decision,Cub Swanson,4,Herb Dean,0,5,296,209,344,251,0,2,3,UFC Fight Night: Swanson vs. Lobov,W
+17,35,5,15,"April 22, 2017",117,260,186,1,1,79,205,0,27,36,"Nashville, Tennessee, USA",Decision,Artem Lobov,0,Herb Dean,0,5,276,123,290,134,0,2,8,UFC Fight Night: Swanson vs. Lobov,L
+1,2,2,2,"April 22, 2017",8,15,187,2,2,9,15,2,2,2,"Nashville, Tennessee, USA",KO/TKO,Al Iaquinta,0,John McCarthy,0,1,19,12,19,12,0,0,0,UFC Fight Night: Swanson vs. Lobov,W
+2,2,0,1,"April 22, 2017",4,14,187,0,0,2,13,0,0,0,"Nashville, Tennessee, USA",KO/TKO,Diego Sanchez,0,John McCarthy,0,1,15,4,15,4,0,0,0,UFC Fight Night: Swanson vs. Lobov,L
+4,6,1,1,"April 22, 2017",12,29,188,8,11,15,32,0,2,3,"Nashville, Tennessee, USA",Submission,Ovince Saint Preux,1,Dan Miragliotta,0,2,41,21,50,30,1,1,2,UFC Fight Night: Swanson vs. Lobov,W
+5,15,0,0,"April 22, 2017",17,45,188,0,0,3,12,0,9,18,"Nashville, Tennessee, USA",Submission,Marcos Rogerio de Lima,0,Dan Miragliotta,0,2,45,17,45,17,0,0,0,UFC Fight Night: Swanson vs. Lobov,L
+21,24,1,1,"April 22, 2017",47,102,189,0,0,23,75,0,4,4,"Nashville, Tennessee, USA",Decision,John Dodson,0,Herb Dean,0,3,103,48,103,48,0,0,1,UFC Fight Night: Swanson vs. Lobov,W
+7,13,0,2,"April 22, 2017",21,136,189,0,0,14,125,0,0,0,"Nashville, Tennessee, USA",Decision,Eddie Wineland,0,Herb Dean,0,3,138,21,138,21,0,0,0,UFC Fight Night: Swanson vs. Lobov,L
+4,4,1,4,"April 22, 2017",20,43,190,25,29,42,72,0,0,0,"Nashville, Tennessee, USA",Decision,Joe Lauzon,5,Dan Miragliotta,0,3,76,46,97,65,1,5,7,UFC Fight Night: Swanson vs. Lobov,L
+14,16,18,29,"April 22, 2017",67,140,190,24,27,94,179,0,1,1,"Nashville, Tennessee, USA",Decision,Stevie Ray,0,Dan Miragliotta,0,3,196,109,237,139,1,0,0,UFC Fight Night: Swanson vs. Lobov,W
+4,6,4,6,"April 22, 2017",13,35,191,0,0,13,35,0,0,0,"Nashville, Tennessee, USA",KO/TKO,Jake Ellenberger,0,Josh Ward,0,2,41,17,44,20,0,1,4,UFC Fight Night: Swanson vs. Lobov,L
+4,10,2,3,"April 22, 2017",24,51,191,0,1,10,32,2,12,13,"Nashville, Tennessee, USA",KO/TKO,Mike Perry,0,Josh Ward,0,2,55,26,57,28,0,0,0,UFC Fight Night: Swanson vs. Lobov,W
+6,7,1,2,"April 22, 2017",37,66,192,0,0,8,34,0,24,27,"Nashville, Tennessee, USA",Decision,Thales Leites,0,John McCarthy,0,3,68,38,75,44,0,1,7,UFC Fight Night: Swanson vs. Lobov,W
+5,6,7,8,"April 22, 2017",20,81,192,0,0,22,83,0,0,0,"Nashville, Tennessee, USA",Decision,Sam Alvey,0,John McCarthy,0,3,89,27,112,50,0,0,0,UFC Fight Night: Swanson vs. Lobov,L
+2,5,4,8,"April 22, 2017",10,50,193,2,2,3,41,0,11,14,"Nashville, Tennessee, USA",Submission,Dustin Ortiz,0,Dan Miragliotta,1,2,60,16,76,31,0,4,10,UFC Fight Night: Swanson vs. Lobov,L
+5,7,5,6,"April 22, 2017",12,54,193,7,13,14,60,1,5,6,"Nashville, Tennessee, USA",Submission,Brandon Moreno,2,Dan Miragliotta,1,2,73,24,86,34,2,0,0,UFC Fight Night: Swanson vs. Lobov,W
+8,22,4,6,"April 22, 2017",64,127,194,36,57,70,136,1,26,32,"Nashville, Tennessee, USA",Decision,Scott Holtzman,1,Herb Dean,2,3,190,104,198,109,0,2,4,UFC Fight Night: Swanson vs. Lobov,W
+19,29,3,8,"April 22, 2017",73,149,194,7,15,50,127,0,14,16,"Nashville, Tennessee, USA",Decision,Michael McBride,1,Herb Dean,1,3,172,83,236,140,2,3,6,UFC Fight Night: Swanson vs. Lobov,L
+31,40,14,19,"April 22, 2017",55,159,195,0,0,37,136,0,1,2,"Nashville, Tennessee, USA",Decision,Jessica Penne,1,John McCarthy,0,3,178,69,181,71,0,1,2,UFC Fight Night: Swanson vs. Lobov,L
+11,14,5,9,"April 22, 2017",67,167,195,0,0,43,141,0,18,21,"Nashville, Tennessee, USA",Decision,Danielle Taylor,0,John McCarthy,0,3,176,72,182,76,0,0,0,UFC Fight Night: Swanson vs. Lobov,W
+17,21,9,9,"April 22, 2017",35,104,196,7,10,21,88,0,13,14,"Nashville, Tennessee, USA",Decision,Alexis Davis,2,Herb Dean,1,3,123,51,192,115,2,0,0,UFC Fight Night: Swanson vs. Lobov,W
+6,8,8,18,"April 22, 2017",28,114,196,11,14,34,125,0,7,13,"Nashville, Tennessee, USA",Decision,Cindy Dandois,0,Herb Dean,0,3,146,47,212,100,0,5,9,UFC Fight Night: Swanson vs. Lobov,L
+1,1,6,9,"April 22, 2017",16,29,197,6,7,22,36,1,5,8,"Nashville, Tennessee, USA",KO/TKO,Bryan Barberena,0,Dan Miragliotta,0,1,45,28,45,28,0,0,0,UFC Fight Night: Swanson vs. Lobov,W
+2,5,0,0,"April 22, 2017",8,23,197,0,0,4,16,0,2,2,"Nashville, Tennessee, USA",KO/TKO,Joe Proctor,0,Dan Miragliotta,0,1,23,8,23,8,0,0,0,UFC Fight Night: Swanson vs. Lobov,L
+6,7,17,25,"April 22, 2017",5,13,198,10,12,22,37,0,4,6,"Nashville, Tennessee, USA",KO/TKO,Hector Sandoval,0,Josh Ward,0,1,50,32,70,52,0,3,8,UFC Fight Night: Swanson vs. Lobov,W
+4,6,10,15,"April 22, 2017",6,24,198,0,1,8,29,0,4,5,"Nashville, Tennessee, USA",KO/TKO,Matt Schnell,2,Josh Ward,0,1,40,16,52,27,1,1,1,UFC Fight Night: Swanson vs. Lobov,L
+16,20,8,16,"April 15, 2017",72,136,199,28,34,81,154,0,11,12,"Kansas City, Missouri, USA",Submission,Demetrious Johnson,3,Dan Miragliotta,0,3,186,108,216,135,1,1,2,UFC Fight Night: Johnson vs. Reis,W
+2,14,0,1,"April 15, 2017",16,167,199,0,0,2,139,0,12,15,"Kansas City, Missouri, USA",Submission,Wilson Reis,0,Dan Miragliotta,0,3,168,16,170,18,0,0,6,UFC Fight Night: Johnson vs. Reis,L
