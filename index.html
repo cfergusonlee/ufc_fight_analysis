@@ -11799,7 +11799,7 @@ $( document ).ready(function(){
              'toc_cell': false,          // useless here
              'toc_window_display': true, // display the toc window
              "toc_section_display": "block", // display toc contents in the window
-             'sideBar':false,             // sidebar or floating window
+             'sideBar':true,             // sidebar or floating window
              'navigate_menu':false       // navigation menu (only in liveNotebook -- do not change)
             }
 
@@ -11882,10 +11882,14 @@ $( document ).ready(function(){
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Imports and Helper Functions</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Noteboook Functionality</span>
+<span class="kn">import</span> <span class="nn">warnings</span>
+<span class="n">warnings</span><span class="o">.</span><span class="n">filterwarnings</span><span class="p">(</span><span class="s1">&#39;ignore&#39;</span><span class="p">)</span>
+
+<span class="c1"># Imports and Helper Functions</span>
 <span class="c1"># data Analysis</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">options</span><span class="o">.</span><span class="n">display</span><span class="o">.</span><span class="n">max_columns</span> <span class="o">=</span> <span class="mi">50</span>
@@ -11935,11 +11939,6 @@ $( document ).ready(function(){
 
 <span class="n">fight_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;data/fights_v5.csv&quot;</span><span class="p">)</span>
 <span class="n">fight_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">fight_data</span><span class="p">)</span>
-<span class="c1"># Any results you write to the current directory are saved as output.</span>
-
-<span class="c1"># Noteboook Functionality</span>
-<span class="c1">#from IPython.core.interactiveshell import InteractiveShell # All statements are printed to output</span>
-<span class="c1">#InteractiveShell.ast_node_interactivity = &quot;all&quot;</span>
 </pre></div>
 
 </div>
