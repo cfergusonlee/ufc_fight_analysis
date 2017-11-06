@@ -12008,7 +12008,7 @@ memory usage: 2.0+ MB
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>From this, we can see that we have a total of 32 Columns and one dependent variable. The columns themselves have 7 object types (First Name, Last Name, Method, Referee, Date, Location and Title), and 25 Float types. This however does not give us a complete picture of the data, so we'll use a few other pandas functions to get a better glimpse.</p>
+<p>From this, we can see that we have a total of 32 Columns and one dependent variable. The columns themselves have 7 object types (First Name, Last Name, Method, Referee, Date, Location and Title), and 24 int types. This however does not give us a complete picture of the data, so we'll use a few other pandas functions to get a better glimpse.</p>
 
 </div>
 </div>
@@ -12412,7 +12412,7 @@ memory usage: 2.0+ MB
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Observations">Observations<a class="anchor-link" href="#Observations">&#182;</a></h2><p>Most of the variables have low means and large maximum values, which means they are probably highly skewed to the right. It might make sense to apply a log transform to some of the distributions when conducting the univariate analysis.</p>
-<p>In the categorical overview, we can see that Herb Dean is truly a prolific ref! Who knew that he officiated over 1300 UFC fights? I would've guessed John McCarthy was the leader in that respect, but Herb Dean has definitely paid his dues. You'll never guess who's the most prolific UFC fighter. Spoler alert: It's Michael Bisping. I bet he wasn't even on your radar.</p>
+<p>In the categorical overview, we can see that Herb Dean is truly a prolific ref! Who knew that he officiated nearly 1300 UFC fights? I would've guessed John McCarthy was the leader in that respect, but Herb Dean has definitely paid his dues. You'll never guess who's the most prolific UFC fighter. Spoler alert: It's Michael Bisping. I bet he wasn't even on your radar.</p>
 
 </div>
 </div>
@@ -13442,7 +13442,7 @@ AAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Very interesting. The most frequent fight length was 3 rounds while the least frequent was 4. This tells me that most fights probably go to a decision rather than KO or submission.</p>
+<p>Very interesting. The most frequent fight length was 3 rounds while the least frequent was 4. This tells me that most title fights go to a decision (5:1 ratio), but non-title fights are pretty evenly split between KO's, injury stoppages and submission.</p>
 
 </div>
 </div>
@@ -13962,7 +13962,7 @@ Name: method, dtype: int64</pre>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Fights that stop due to injury are usually fights in which one fighter has been beating his opponent so badly, they had to stop the fight because the opponent couldn't continue. I'll probably do some more market research later, but right now I see that as a win. The goal is to beat up the other fighter, so mission accomplished. I don't know if I'll combine that category with TKO/KO's, but it's a valid win.</p>
+<p>Fights that stop due to injury are usually fights in which one fighter has been beating his opponent so badly, they had to stop the fight because the opponent couldn't continue. I'll probably do some more market research later, but right now I see that as a win. The goal is to defeat the other fighter, so mission accomplished. I don't know if I'll combine that category with TKO/KO's, but it's a valid win.</p>
 <p>No contests and draws, however are a different story. A no contest could result from a fighter using an illegal technique or getting popped for doping or a mulitude of other reasons and a draw is such an insignificant anomaly that it doesn't warrant further investigation. Neither category demonstrates that one side dominated the other and in many cases they are the result of luck. Because of this, they will most likely be dropped from the dataset before building any models.</p>
 
 </div>
@@ -16142,15 +16142,6 @@ JluEEEIIIYQQwgBNtgghhBBCCCGEAZpsEUIIIYQQQggD/w+HVejAKSjziAAAAABJRU5ErkJggg==
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Wow, there appears to be a strong corrleation between every strike and strike attempt. Wayne Gretsky was right, "You miss 100% of the shots you don't take." There are several other related variables scattered throughout the dataset. It seems significant attempts, head attempts and distance attempts are all closely related. Also of note is the relationship between the number of passes and the number of takedowns. Interestingly, the number of knowckdowns does not seem to be strongly correlated with any particular variable. There is a small connection between knockdowns, win/loss and head strikes.</p>
 <p>There does not appear to be a lot of negative correlations. The only small standouts are sub attempts to fight_id, knockdowns to takedown attempts and sub attempts to distance strikes. The last two make sense to a certain extent. If a a fighter is a good striker, they'd have little reason to try to take someone their opponent down and if they're they're a submission artist they would probably throw fewer distance strikes. The relationship between sub attempts and fight_id doesn't make as much sense to me right now. In the beginning, not many people were familiar with bjj so I would expect the number of submission attempts to grow over time. I'll have to take a closer look at that later.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
 <p>Applying a log transform yields...</p>
 
 </div>
@@ -17050,7 +17041,8 @@ gy1CCCGEEEIIYUBN6AIQQgghhBBCiCqiwRYhhBBCCCGEMECDLUIIIYQQQghhgAZbhBBCCCGEEMLA
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Strike-Targets">Strike Targets<a class="anchor-link" href="#Strike-Targets">&#182;</a></h2>
+<h2 id="Strike-Targets">Strike Targets<a class="anchor-link" href="#Strike-Targets">&#182;</a></h2><p>I was curious about how the number of strikes varied, depending on whether a fighter won or lost. On average, the winner outstruck the loser, but some margins were larger than others. For instance, the number of leg and body attacks were pretty evenly split, but the number of head strikes differed by about a 2:1 ratio. This may hold value for our classifiers later.</p>
+
 </div>
 </div>
 </div>
@@ -17443,7 +17435,8 @@ EmAU0EREREQCzH8AqJbuma+ca68AAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Strike-Types">Strike Types<a class="anchor-link" href="#Strike-Types">&#182;</a></h2>
+<h2 id="Strike-Types">Strike Types<a class="anchor-link" href="#Strike-Types">&#182;</a></h2><p>For strike types, the differences between the population of fight winners and losers is even wider. For instance, the number of strikes landed is almost a 2:1 ratio between winners and losers, but the number of ground strikes landed is a 5:1 ratio. This tells me if a fighter can take the fight to the ground, they open up the opportunity to dominate the fight from there.</p>
+
 </div>
 </div>
 </div>
@@ -17983,7 +17976,8 @@ L/TfS4QAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Grappling">Grappling<a class="anchor-link" href="#Grappling">&#182;</a></h2>
+<h2 id="Grappling">Grappling<a class="anchor-link" href="#Grappling">&#182;</a></h2><p>Grappling statistics show a stark contrast between the winner and loser populations in every category except reversals. Winning fighters pass at a 3:1 ratio vs losing fighers, attempt twice as many submissions and take down their oppponents twice as frequently. One possible reason for the even split between reversals could be the nature of reversals itself. If a fighter completed a reversal, it means they were probably in trouble in the first place, so that may not have been enough to overcome whatever else happened in the fight.</p>
+
 </div>
 </div>
 </div>
@@ -18582,8 +18576,7 @@ tnCznOLyHAAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>What an interesting distribution! And just as expected, fights that end in submission have a higher percentage of submisssion attempts greater than zero. Interestingly, fights that end in decision aren't heavy on submission attempts. This could be due to the nature of how fights are scored overall since submission attempts do not give a fighter as many points as strikes.</p>
-<p>Another thing that jumped out at me is the number of submission wins with zero submission attempts. I would expect that every fight that ends in submission contained at least one submission attempt, but I'm guessing they count submission due to strikes as well.</p>
+<p>As expected, fights that end in submission have a higher percentage of submisssion attempts greater than zero. Interestingly, fights that end in decision are second highest in the average number of submission attempts. This could be due to the nature of how fights are scored overall since submission attempts do not give a fighter as many points as strikes.</p>
 
 </div>
 </div>
@@ -18850,7 +18843,8 @@ SUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Referees-and-Fighters">Referees and Fighters<a class="anchor-link" href="#Referees-and-Fighters">&#182;</a></h2>
+<h2 id="Referees-and-Fighters">Referees and Fighters<a class="anchor-link" href="#Referees-and-Fighters">&#182;</a></h2><p>This was just a fun exercise to show how often different referees and fighters showed up in the database. The larger the name, the more prolific the person.</p>
+
 </div>
 </div>
 </div>
@@ -25035,7 +25029,8 @@ ioiIiEjdUYgVERERkbqjECsiIiIidec/BD/E6TmuMmUAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Strikes-vs-Win-Percentage">Strikes vs Win Percentage<a class="anchor-link" href="#Strikes-vs-Win-Percentage">&#182;</a></h2>
+<h2 id="Strikes-vs-Win-Percentage">Strikes vs Win Percentage<a class="anchor-link" href="#Strikes-vs-Win-Percentage">&#182;</a></h2><p>We can see that as the number of strikes increases, the probability of winning increases as well up to a point. It appears that past 150 strikes, the win probability starts to taper off.</p>
+
 </div>
 </div>
 </div>
@@ -25405,7 +25400,9 @@ EmcAAADAABJnAAAAwID/D8i50LnPvw1EAAAAAElFTkSuQmCC
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Strikes-Landed-Per-Fight">Strikes Landed Per Fight<a class="anchor-link" href="#Strikes-Landed-Per-Fight">&#182;</a></h3>
+<h3 id="Strikes-Landed-Per-Fight">Strikes Landed Per Fight<a class="anchor-link" href="#Strikes-Landed-Per-Fight">&#182;</a></h3><p>So far I've been using matplotlib and seaborn for the visualizations, but I decided to switch it up this time and throw some ggplot into the mix. I really like the ggplot syntax in R because it is clean and in my opinion less clunky than matplotlib. In addition, ggplot has smoothing and loess functions that make it a snap to adjust the signal to noise ratio in time series data.</p>
+<p>On average, we can see that the number of strikes thrown per fight has risen steadily over time. The black line tracks each individual event, which could include several fights in the same year, while the blue line applies a smoothing function to cut down the noise.</p>
+
 </div>
 </div>
 </div>
@@ -35674,7 +35671,8 @@ AABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Fights-Per-Year">Fights Per Year<a class="anchor-link" href="#Fights-Per-Year">&#182;</a></h3>
+<h3 id="Fights-Per-Year">Fights Per Year<a class="anchor-link" href="#Fights-Per-Year">&#182;</a></h3><p>The number of fights per year grew exponentially until it peaked in 2014 and leveled off slightly. The sharp dip from 2016 to 2017 is slightly misleading since this data was scraped in September of 2017.</p>
+
 </div>
 </div>
 </div>
@@ -36158,7 +36156,8 @@ Name: date, dtype: float64</pre>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Fight-Finishes">Fight Finishes<a class="anchor-link" href="#Fight-Finishes">&#182;</a></h3>
+<h3 id="Fight-Finishes">Fight Finishes<a class="anchor-link" href="#Fight-Finishes">&#182;</a></h3><p>This was one of the most interesting visualizations for me because it showed how different fighting strategies shifted over time. Submissions dominated in the beginning before being overtaken by knockouts from 1999-2008, which were then overtaken by judge's decision.</p>
+
 </div>
 </div>
 </div>
@@ -37223,7 +37222,8 @@ Ey0iIiIiYpCaaBERERERg9REi4iIiIgY9D8X9Aa5AbtVpwAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Win-Percentage">Win Percentage<a class="anchor-link" href="#Win-Percentage">&#182;</a></h3>
+<h3 id="Win-Percentage">Win Percentage<a class="anchor-link" href="#Win-Percentage">&#182;</a></h3><p>There were a surprising number of undefeated fighters in the dataset, so I narrowed the view to fighters with at least 5 fights who have fought within the last 2 years. Even with this restriction, there were 8 undefeated fighters.</p>
+
 </div>
 </div>
 </div>
@@ -41061,6 +41061,16 @@ hlAeAAAAABhCeQAAAABgCOUBAAAAgCGUBwAAAACGUB4AAAAAGEJ5AAAAAGAI5QEAAACAIf8POPUq
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The following plots show that fight winners and losers show clear separation across the number of ground strikes, overall strikes and clinches landed.</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -47195,6 +47205,17 @@ QmCC
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Conclusion">Conclusion<a class="anchor-link" href="#Conclusion">&#182;</a></h1><p>This was an informative first step in understanding how different fight metrics impact the outcome of a UFC fight. The time series graphs helped me understand how fighting strategies have changed over time.  We can see that although BJJ practitioners had a significant advantage over other fighters early on, other fighters were eventually able to narrow that gap over time. The fighter rankings opened up different avenues to explore what separated top fighters from those on the other end of the spectrum.</p>
+<p>There is still a lot that can be explored from this dataset. It would be interesting to understand what goes into a fight win streak or how to spot a bad matchup from a stylistic perspective. For now, however; I'm happy with the results. Initially, the model was able to predict the outcome with around 55-60% accuracy, but by  testing out different ideas and iterating on our process, we were able to achieve 88% accuracy. Progress will continue, but this feels like a good stopping point for now. Thanks for taking the time to read through this analysis.</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
