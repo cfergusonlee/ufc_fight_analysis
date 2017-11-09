@@ -11841,72 +11841,6 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The raw Python code used here is turned off by default for easier reading.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">HTML</span>
-
-<span class="n">HTML</span><span class="p">(</span><span class="s1">&#39;&#39;&#39;&lt;script&gt;</span>
-<span class="s1">code_show=true; </span>
-<span class="s1">function code_toggle() {</span>
-<span class="s1"> if (code_show){</span>
-<span class="s1"> $(&#39;div.input&#39;).hide();</span>
-<span class="s1"> } else {</span>
-<span class="s1"> $(&#39;div.input&#39;).show();</span>
-<span class="s1"> }</span>
-<span class="s1"> code_show = !code_show</span>
-<span class="s1">} </span>
-<span class="s1">$( document ).ready(code_toggle);</span>
-<span class="s1">&lt;/script&gt;</span>
-<span class="s1">&lt;form action=&quot;javascript:code_toggle()&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;Click here to toggle on/off the raw code.&quot;&gt;&lt;/form&gt;&#39;&#39;&#39;</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-<div class="prompt output_prompt">Out[2]:</div>
-
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-<script>
-code_show=true; 
-function code_toggle() {
- if (code_show){
- $('div.input').hide();
- } else {
- $('div.input').show();
- }
- code_show = !code_show
-} 
-$( document ).ready(code_toggle);
-</script>
-<form action="javascript:code_toggle()"><input type="submit" value="Click here to toggle on/off the raw code."></form>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">&#182;</a></h1><p>What does it mean to be the best fighter in the world? Is it the person with the best kick? The best punch? Or is it something else? This project seeks to determine which factors are the best predictors of success in the UFC. It explores every fight since the organization's inception in the hopes of gaining insight into what separates winners and losers. We start with an exploratory visual analysis of all variables before cleaning the data and building our machine learning models. Currently, the algorithms are able to predict the outcome with approximately <del>55-60%</del> <del>57-66%</del> 85-88% accuracy. Our goal is to improve that over time through iteration.</p>
 <p>I was originally inspired by <a href="https://www.kaggle.com/calmdownkarm/ufc-predictor-and-notes">this kaggle kernel</a> as well as my own background in martial arts growing up. Their model had a peak accuracy between 58-63% and I wanted to see if I could improve upon that. I wrote a new scraper, pulling data from fightmetric.com instead of ufc.com, spent more time on exploratory analysis and maintained a smaller overall feature set. That last point especially helped me overcome the curse of dimensionality problem and reach a peak accuracy of 88%.</p>
 
@@ -47277,7 +47211,7 @@ QmCC
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Conclusion">Conclusion<a class="anchor-link" href="#Conclusion">&#182;</a></h1><p>This was an informative first step in understanding how different fight metrics impact the outcome of a UFC fight. The time series graphs helped me understand how fighting strategies have changed over time.  We can see that although BJJ practitioners had a significant advantage over other fighters early on, other fighters were eventually able to narrow that gap over time. The fighter rankings opened up different avenues to explore what separated top fighters from those on the other end of the spectrum.</p>
-<p>The next step is to improve the future fight prediction algorithm. Currently, our models are able to judge the winner from past fights with 85-88% accuracy, but it is not quite able to predict the winner of future matchups. This may require different feature engineering or perhaps the incorporation of new features via a scraper rewrite. Currently the data that is fed into the algorithms is based on the difference in previous average metrics between two fighters. The reasoning was that if a fighter was outstriking or outgrapplint his or her opponent in the past, it may help us understand how they'd perform in the future. Unfortunately, this was not the case and yielded a peak accuracy of 58%. While disappointing, I'm confident that this can be improved through iteration.</p>
+<p>The next step is to improve the future fight prediction algorithm. Currently, our models are able to judge the winner from past fights with 85-88% accuracy, but it is not quite able to predict the winner of future matchups. This may require different feature engineering or perhaps the incorporation of new features via a scraper rewrite. Currently the data that is fed into the algorithms is based on the difference in previous average metrics between two fighters. The reasoning was that if a fighter was outstriking or outgrappling his or her opponent in the past, it may help us understand how he or she would perform in the future. Unfortunately, this was not the case and yielded a peak accuracy of 58%. While disappointing, I'm confident that this can be improved through iteration.</p>
 <p>There is still a lot that can be explored from this dataset. It would be interesting to understand what goes into a fight win streak or how to spot a bad matchup from a stylistic perspective. For now, however; I'm happy with the results. Initially, the model was able to judge the outcome with around 55-60% accuracy, but by  testing out different ideas and iterating on our process, we were able to achieve 88% accuracy. Progress will continue, but this feels like a good stopping point for now. Thanks for taking the time to read through this analysis.</p>
 
 </div>
